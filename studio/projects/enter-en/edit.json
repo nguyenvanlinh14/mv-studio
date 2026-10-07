@@ -1,0 +1,11 @@
+{
+  "song": "song.mp3",
+  "stems": "~/music-video-pilot/analysis/work/enter-en/stems/htdemucs/song/no_vocals.wav",
+  "out": "song-edit.wav",
+  "cut": 52.368,
+  "gap_beats": 12,
+  "bed": { "lowpass": 650, "gain_db": -13 },
+  "vo": [
+    { "clip": "vo/trump-genius.wav", "at": 0.25, "gain_db": 9, "echo": true }
+  ]
+}

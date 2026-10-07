@@ -1,0 +1,933 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "Verse 1",
+   "text": "Màn hình sáng giữa đêm khuya",
+   "start": 16.85,
+   "end": 19.972,
+   "words": [
+    {
+     "w": "Màn",
+     "start": 16.85,
+     "end": 17.07,
+     "conf": 0.98
+    },
+    {
+     "w": "hình",
+     "start": 17.351,
+     "end": 17.591,
+     "conf": 0.96
+    },
+    {
+     "w": "sáng",
+     "start": 17.811,
+     "end": 18.111,
+     "conf": 0.14
+    },
+    {
+     "w": "giữa",
+     "start": 18.351,
+     "end": 18.711,
+     "conf": 0.73
+    },
+    {
+     "w": "đêm",
+     "start": 18.812,
+     "end": 18.972,
+     "conf": 0.68
+    },
+    {
+     "w": "khuya",
+     "start": 19.132,
+     "end": 19.972,
+     "conf": 0.14
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "Verse 1",
+   "text": "Từng dòng mã chạy không ngừng",
+   "start": 20.793,
+   "end": 23.354,
+   "words": [
+    {
+     "w": "Từng",
+     "start": 20.793,
+     "end": 20.973,
+     "conf": 0.98
+    },
+    {
+     "w": "dòng",
+     "start": 21.293,
+     "end": 21.513,
+     "conf": 0.77
+    },
+    {
+     "w": "mã",
+     "start": 21.773,
+     "end": 21.973,
+     "conf": 0.98
+    },
+    {
+     "w": "chạy",
+     "start": 22.274,
+     "end": 22.474,
+     "conf": 0.4
+    },
+    {
+     "w": "không",
+     "start": 22.754,
+     "end": 22.954,
+     "conf": 0.91
+    },
+    {
+     "w": "ngừng",
+     "start": 23.094,
+     "end": 23.354,
+     "conf": 0.84
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "Verse 1",
+   "text": "Tín hiệu gọi tên em đó",
+   "start": 24.735,
+   "end": 27.257,
+   "words": [
+    {
+     "w": "Tín",
+     "start": 24.735,
+     "end": 24.935,
+     "conf": 0.81
+    },
+    {
+     "w": "hiệu",
+     "start": 25.235,
+     "end": 25.476,
+     "conf": 0.92
+    },
+    {
+     "w": "gọi",
+     "start": 25.736,
+     "end": 25.976,
+     "conf": 0.98
+    },
+    {
+     "w": "tên",
+     "start": 26.196,
+     "end": 26.396,
+     "conf": 0.56
+    },
+    {
+     "w": "em",
+     "start": 26.796,
+     "end": 26.856,
+     "conf": 0.61
+    },
+    {
+     "w": "đó",
+     "start": 26.977,
+     "end": 27.257,
+     "conf": 0.79
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "Verse 1",
+   "text": "Trái tim đếm nhịp từng giây",
+   "start": 28.137,
+   "end": 30.098,
+   "words": [
+    {
+     "w": "Trái",
+     "start": 28.137,
+     "end": 28.297,
+     "conf": 0.85
+    },
+    {
+     "w": "tim",
+     "start": 28.397,
+     "end": 28.537,
+     "conf": 0.82
+    },
+    {
+     "w": "đếm",
+     "start": 28.658,
+     "end": 28.878,
+     "conf": 0.43
+    },
+    {
+     "w": "nhịp",
+     "start": 29.098,
+     "end": 29.278,
+     "conf": 0.19
+    },
+    {
+     "w": "từng",
+     "start": 29.438,
+     "end": 29.658,
+     "conf": 0.83
+    },
+    {
+     "w": "giây",
+     "start": 29.898,
+     "end": 30.098,
+     "conf": 0.14
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "Pre-Chorus",
+   "text": "Một, hai, ba, bốn",
+   "start": 32.58,
+   "end": 35.662,
+   "words": [
+    {
+     "w": "Một",
+     "start": 32.58,
+     "end": 32.74,
+     "conf": 0.98
+    },
+    {
+     "w": "hai",
+     "start": 33.06,
+     "end": 33.32,
+     "conf": 0.79
+    },
+    {
+     "w": "ba",
+     "start": 33.581,
+     "end": 33.741,
+     "conf": 0.61
+    },
+    {
+     "w": "bốn",
+     "start": 33.841,
+     "end": 35.662,
+     "conf": 0.08
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "Pre-Chorus",
+   "text": "Ánh sáng đang lên",
+   "start": 36.642,
+   "end": 39.264,
+   "words": [
+    {
+     "w": "Ánh",
+     "start": 36.642,
+     "end": 36.763,
+     "conf": 0.33
+    },
+    {
+     "w": "sáng",
+     "start": 37.003,
+     "end": 37.283,
+     "conf": 0.31
+    },
+    {
+     "w": "đang",
+     "start": 37.483,
+     "end": 37.683,
+     "conf": 0.52
+    },
+    {
+     "w": "lên",
+     "start": 37.803,
+     "end": 39.264,
+     "conf": 0.12
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "Pre-Chorus",
+   "text": "Đừng dừng lại nhé",
+   "start": 40.465,
+   "end": 41.926,
+   "words": [
+    {
+     "w": "Đừng",
+     "start": 40.465,
+     "end": 40.665,
+     "conf": 0.95
+    },
+    {
+     "w": "dừng",
+     "start": 40.945,
+     "end": 41.185,
+     "conf": 0.1
+    },
+    {
+     "w": "lại",
+     "start": 41.305,
+     "end": 41.465,
+     "conf": 0.01
+    },
+    {
+     "w": "nhé",
+     "start": 41.706,
+     "end": 41.926,
+     "conf": 0.44
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "Pre-Chorus",
+   "text": "Ta bay lên",
+   "start": 43.887,
+   "end": 47.809,
+   "words": [
+    {
+     "w": "Ta",
+     "start": 43.887,
+     "end": 44.547,
+     "conf": 0.34
+    },
+    {
+     "w": "bay",
+     "start": 44.647,
+     "end": 45.028,
+     "conf": 0.21
+    },
+    {
+     "w": "lên",
+     "start": 45.368,
+     "end": 47.809,
+     "conf": 0.28
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "Chorus",
+   "text": "Cháy lên đi, cam rực trời đêm",
+   "start": 48.29,
+   "end": 55.434,
+   "words": [
+    {
+     "w": "Cháy",
+     "start": 48.29,
+     "end": 48.55,
+     "conf": 0.24
+    },
+    {
+     "w": "lên",
+     "start": 48.81,
+     "end": 49.11,
+     "conf": 0.02
+    },
+    {
+     "w": "đi",
+     "start": 49.31,
+     "end": 49.61,
+     "conf": 0.33
+    },
+    {
+     "w": "cam",
+     "start": 51.271,
+     "end": 51.952,
+     "conf": 0.4
+    },
+    {
+     "w": "rực",
+     "start": 52.272,
+     "end": 52.412,
+     "conf": 0.04
+    },
+    {
+     "w": "trời",
+     "start": 52.732,
+     "end": 52.952,
+     "conf": 0.44
+    },
+    {
+     "w": "đêm",
+     "start": 53.033,
+     "end": 55.434,
+     "conf": 0.37
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "Chorus",
+   "text": "Từng nhịp tim là một dòng tên",
+   "start": 56.154,
+   "end": 62.458,
+   "words": [
+    {
+     "w": "Từng",
+     "start": 56.154,
+     "end": 56.335,
+     "conf": 0.35
+    },
+    {
+     "w": "nhịp",
+     "start": 56.475,
+     "end": 56.735,
+     "conf": 0.34
+    },
+    {
+     "w": "tim",
+     "start": 56.935,
+     "end": 57.135,
+     "conf": 0.09
+    },
+    {
+     "w": "là",
+     "start": 58.636,
+     "end": 58.996,
+     "conf": 0.65
+    },
+    {
+     "w": "một",
+     "start": 59.136,
+     "end": 59.917,
+     "conf": 0.04
+    },
+    {
+     "w": "dòng",
+     "start": 60.097,
+     "end": 60.657,
+     "conf": 0.18
+    },
+    {
+     "w": "tên",
+     "start": 60.837,
+     "end": 62.458,
+     "conf": 0.19
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "Chorus",
+   "text": "Cháy lên đi, đừng sợ tối tăm",
+   "start": 63.039,
+   "end": 69.383,
+   "words": [
+    {
+     "w": "Cháy",
+     "start": 63.039,
+     "end": 63.359,
+     "conf": 0.19
+    },
+    {
+     "w": "lên",
+     "start": 63.539,
+     "end": 63.839,
+     "conf": 0.04
+    },
+    {
+     "w": "đi",
+     "start": 64.039,
+     "end": 64.58,
+     "conf": 0.37
+    },
+    {
+     "w": "đừng",
+     "start": 65.5,
+     "end": 65.72,
+     "conf": 0.93
+    },
+    {
+     "w": "sợ",
+     "start": 65.98,
+     "end": 66.321,
+     "conf": 0.02
+    },
+    {
+     "w": "tối",
+     "start": 66.481,
+     "end": 66.781,
+     "conf": 0.56
+    },
+    {
+     "w": "tăm",
+     "start": 66.981,
+     "end": 69.383,
+     "conf": 0.15
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "Chorus",
+   "text": "Ta là ánh sáng, ta là âm thanh",
+   "start": 69.923,
+   "end": 78.846,
+   "words": [
+    {
+     "w": "Ta",
+     "start": 69.923,
+     "end": 70.123,
+     "conf": 0.02
+    },
+    {
+     "w": "là",
+     "start": 70.223,
+     "end": 70.563,
+     "conf": 0.87
+    },
+    {
+     "w": "ánh",
+     "start": 70.823,
+     "end": 70.923,
+     "conf": 0.4
+    },
+    {
+     "w": "sáng",
+     "start": 71.184,
+     "end": 72.645,
+     "conf": 0.35
+    },
+    {
+     "w": "ta",
+     "start": 72.885,
+     "end": 73.405,
+     "conf": 0.06
+    },
+    {
+     "w": "là",
+     "start": 73.865,
+     "end": 74.286,
+     "conf": 0.21
+    },
+    {
+     "w": "âm",
+     "start": 74.486,
+     "end": 74.546,
+     "conf": 0.01
+    },
+    {
+     "w": "thanh",
+     "start": 74.846,
+     "end": 78.846,
+     "conf": 0.23
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "Verse 2",
+   "text": "Lưới điện chạy khắp thành phố",
+   "start": 109.727,
+   "end": 112.869,
+   "words": [
+    {
+     "w": "Lưới",
+     "start": 109.727,
+     "end": 110.007,
+     "conf": 0.16
+    },
+    {
+     "w": "điện",
+     "start": 110.268,
+     "end": 110.448,
+     "conf": 0.44
+    },
+    {
+     "w": "chạy",
+     "start": 110.728,
+     "end": 110.928,
+     "conf": 0.2
+    },
+    {
+     "w": "khắp",
+     "start": 111.228,
+     "end": 111.408,
+     "conf": 0.83
+    },
+    {
+     "w": "thành",
+     "start": 111.688,
+     "end": 111.869,
+     "conf": 0.96
+    },
+    {
+     "w": "phố",
+     "start": 112.009,
+     "end": 112.869,
+     "conf": 0.46
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "Verse 2",
+   "text": "Biểu đồ vẽ giấc mơ ta",
+   "start": 113.73,
+   "end": 116.191,
+   "words": [
+    {
+     "w": "Biểu",
+     "start": 113.73,
+     "end": 113.95,
+     "conf": 0.03
+    },
+    {
+     "w": "đồ",
+     "start": 114.21,
+     "end": 114.51,
+     "conf": 0.9
+    },
+    {
+     "w": "vẽ",
+     "start": 114.67,
+     "end": 114.81,
+     "conf": 0.55
+    },
+    {
+     "w": "giấc",
+     "start": 114.99,
+     "end": 115.171,
+     "conf": 0.12
+    },
+    {
+     "w": "mơ",
+     "start": 115.451,
+     "end": 115.691,
+     "conf": 0.48
+    },
+    {
+     "w": "ta",
+     "start": 115.971,
+     "end": 116.191,
+     "conf": 0.6
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "Verse 2",
+   "text": "Mỗi con số là một bước",
+   "start": 117.652,
+   "end": 120.094,
+   "words": [
+    {
+     "w": "Mỗi",
+     "start": 117.652,
+     "end": 117.852,
+     "conf": 0.99
+    },
+    {
+     "w": "con",
+     "start": 118.112,
+     "end": 118.252,
+     "conf": 0.99
+    },
+    {
+     "w": "số",
+     "start": 118.433,
+     "end": 118.733,
+     "conf": 0.67
+    },
+    {
+     "w": "là",
+     "start": 119.133,
+     "end": 119.433,
+     "conf": 0.97
+    },
+    {
+     "w": "một",
+     "start": 119.573,
+     "end": 119.713,
+     "conf": 1.0
+    },
+    {
+     "w": "bước",
+     "start": 119.873,
+     "end": 120.094,
+     "conf": 0.95
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "Verse 2",
+   "text": "Đưa ta đến thật xa",
+   "start": 120.554,
+   "end": 124.376,
+   "words": [
+    {
+     "w": "Đưa",
+     "start": 120.554,
+     "end": 120.714,
+     "conf": 0.95
+    },
+    {
+     "w": "ta",
+     "start": 120.814,
+     "end": 120.994,
+     "conf": 0.99
+    },
+    {
+     "w": "đến",
+     "start": 121.074,
+     "end": 121.274,
+     "conf": 0.56
+    },
+    {
+     "w": "thật",
+     "start": 121.514,
+     "end": 121.695,
+     "conf": 0.71
+    },
+    {
+     "w": "xa",
+     "start": 122.015,
+     "end": 124.376,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "Chorus",
+   "text": "Cháy lên đi, cam rực trời đêm",
+   "start": 124.957,
+   "end": 132.081,
+   "words": [
+    {
+     "w": "Cháy",
+     "start": 124.957,
+     "end": 125.217,
+     "conf": 0.2
+    },
+    {
+     "w": "lên",
+     "start": 125.497,
+     "end": 125.817,
+     "conf": 0.13
+    },
+    {
+     "w": "đi",
+     "start": 125.997,
+     "end": 126.397,
+     "conf": 0.52
+    },
+    {
+     "w": "cam",
+     "start": 127.938,
+     "end": 128.639,
+     "conf": 0.25
+    },
+    {
+     "w": "rực",
+     "start": 128.939,
+     "end": 129.079,
+     "conf": 0.02
+    },
+    {
+     "w": "trời",
+     "start": 129.399,
+     "end": 129.639,
+     "conf": 0.4
+    },
+    {
+     "w": "đêm",
+     "start": 129.72,
+     "end": 132.081,
+     "conf": 0.39
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "Chorus",
+   "text": "Từng nhịp tim là một dòng tên",
+   "start": 132.841,
+   "end": 139.165,
+   "words": [
+    {
+     "w": "Từng",
+     "start": 132.841,
+     "end": 133.022,
+     "conf": 0.8
+    },
+    {
+     "w": "nhịp",
+     "start": 133.182,
+     "end": 133.402,
+     "conf": 0.09
+    },
+    {
+     "w": "tim",
+     "start": 133.602,
+     "end": 133.802,
+     "conf": 0.09
+    },
+    {
+     "w": "là",
+     "start": 135.303,
+     "end": 135.683,
+     "conf": 0.16
+    },
+    {
+     "w": "một",
+     "start": 135.803,
+     "end": 136.544,
+     "conf": 0.01
+    },
+    {
+     "w": "dòng",
+     "start": 136.804,
+     "end": 137.324,
+     "conf": 0.17
+    },
+    {
+     "w": "tên",
+     "start": 137.544,
+     "end": 139.165,
+     "conf": 0.36
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "Chorus",
+   "text": "Cháy lên đi, đừng sợ tối tăm",
+   "start": 139.726,
+   "end": 146.07,
+   "words": [
+    {
+     "w": "Cháy",
+     "start": 139.726,
+     "end": 139.966,
+     "conf": 0.07
+    },
+    {
+     "w": "lên",
+     "start": 140.246,
+     "end": 140.546,
+     "conf": 0.1
+    },
+    {
+     "w": "đi",
+     "start": 140.726,
+     "end": 141.066,
+     "conf": 0.22
+    },
+    {
+     "w": "đừng",
+     "start": 142.187,
+     "end": 142.407,
+     "conf": 0.88
+    },
+    {
+     "w": "sợ",
+     "start": 142.667,
+     "end": 143.028,
+     "conf": 0.03
+    },
+    {
+     "w": "tối",
+     "start": 143.168,
+     "end": 143.488,
+     "conf": 0.43
+    },
+    {
+     "w": "tăm",
+     "start": 143.668,
+     "end": 146.07,
+     "conf": 0.05
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "Chorus",
+   "text": "Ta là ánh sáng, ta là âm thanh",
+   "start": 146.63,
+   "end": 155.513,
+   "words": [
+    {
+     "w": "Ta",
+     "start": 146.63,
+     "end": 146.81,
+     "conf": 0.2
+    },
+    {
+     "w": "là",
+     "start": 146.91,
+     "end": 147.25,
+     "conf": 0.85
+    },
+    {
+     "w": "ánh",
+     "start": 147.53,
+     "end": 147.631,
+     "conf": 0.31
+    },
+    {
+     "w": "sáng",
+     "start": 147.871,
+     "end": 149.352,
+     "conf": 0.32
+    },
+    {
+     "w": "ta",
+     "start": 149.572,
+     "end": 150.052,
+     "conf": 0.17
+    },
+    {
+     "w": "là",
+     "start": 150.532,
+     "end": 150.953,
+     "conf": 0.69
+    },
+    {
+     "w": "âm",
+     "start": 151.193,
+     "end": 151.253,
+     "conf": 0.01
+    },
+    {
+     "w": "thanh",
+     "start": 151.513,
+     "end": 155.513,
+     "conf": 0.39
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "Outro",
+   "text": "Là âm thanh",
+   "start": 157.3,
+   "end": 161.7,
+   "words": [
+    {
+     "w": "Là",
+     "start": 157.3,
+     "end": 157.53,
+     "conf": 0.5
+    },
+    {
+     "w": "âm",
+     "start": 158.6,
+     "end": 159.2,
+     "conf": 0.5
+    },
+    {
+     "w": "thanh",
+     "start": 159.2,
+     "end": 161.7,
+     "conf": 0.5
+    }
+   ],
+   "adlib": true
+  }
+ ],
+ "notes": "whole-song CTC forced alignment (wav2vec2-base-vietnamese-250h) on Demucs vocals"
+}

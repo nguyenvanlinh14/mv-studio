@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+studio/out/
+.DS_Store
+analysis/work/
+out/
+*.mp4
+.claude/
+studio/projects/*/song-edit.wav
+studio/projects/*/audio.edit.json
+studio/projects/*/lyrics.edit.json

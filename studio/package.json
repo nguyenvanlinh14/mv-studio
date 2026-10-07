@@ -1,0 +1,22 @@
+{
+  "name": "mv-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --port 5180",
+    "render": "bun render/render.ts",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/three": "^0.186.0",
+    "playwright-core": "^1.63.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3"
+  }
+}

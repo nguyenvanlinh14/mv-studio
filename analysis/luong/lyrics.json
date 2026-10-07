@@ -1,0 +1,1658 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "Intro",
+   "text": "Tám rưỡi rồi, tích tắc, tích tắc",
+   "start": 7.906,
+   "end": 9.468,
+   "words": [
+    {
+     "w": "Tám",
+     "start": 7.906,
+     "end": 8.027,
+     "conf": 0.99
+    },
+    {
+     "w": "rưỡi",
+     "start": 8.147,
+     "end": 8.287,
+     "conf": 0.73
+    },
+    {
+     "w": "rồi",
+     "start": 8.367,
+     "end": 8.527,
+     "conf": 0.82
+    },
+    {
+     "w": "tích",
+     "start": 8.627,
+     "end": 8.767,
+     "conf": 0.9
+    },
+    {
+     "w": "tắc",
+     "start": 8.847,
+     "end": 8.967,
+     "conf": 0.87
+    },
+    {
+     "w": "tích",
+     "start": 9.087,
+     "end": 9.228,
+     "conf": 0.41
+    },
+    {
+     "w": "tắc",
+     "start": 9.308,
+     "end": 9.468,
+     "conf": 0.87
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "Verse 1",
+   "text": "Tám giờ rưỡi chấm công vào",
+   "start": 9.808,
+   "end": 11.369,
+   "words": [
+    {
+     "w": "Tám",
+     "start": 9.808,
+     "end": 9.928,
+     "conf": 0.99
+    },
+    {
+     "w": "giờ",
+     "start": 10.068,
+     "end": 10.188,
+     "conf": 0.97
+    },
+    {
+     "w": "rưỡi",
+     "start": 10.288,
+     "end": 10.409,
+     "conf": 0.77
+    },
+    {
+     "w": "chấm",
+     "start": 10.509,
+     "end": 10.629,
+     "conf": 0.55
+    },
+    {
+     "w": "công",
+     "start": 10.769,
+     "end": 10.929,
+     "conf": 0.81
+    },
+    {
+     "w": "vào",
+     "start": 11.029,
+     "end": 11.369,
+     "conf": 0.77
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "Verse 1",
+   "text": "Mở máy lên, gõ một câu",
+   "start": 11.73,
+   "end": 13.171,
+   "words": [
+    {
+     "w": "Mở",
+     "start": 11.73,
+     "end": 11.85,
+     "conf": 0.99
+    },
+    {
+     "w": "máy",
+     "start": 11.95,
+     "end": 12.09,
+     "conf": 0.99
+    },
+    {
+     "w": "lên",
+     "start": 12.19,
+     "end": 12.33,
+     "conf": 0.99
+    },
+    {
+     "w": "gõ",
+     "start": 12.45,
+     "end": 12.57,
+     "conf": 1.0
+    },
+    {
+     "w": "một",
+     "start": 12.67,
+     "end": 12.791,
+     "conf": 1.0
+    },
+    {
+     "w": "câu",
+     "start": 12.931,
+     "end": 13.171,
+     "conf": 0.98
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "Verse 1",
+   "text": "Enter, enter với A-I",
+   "start": 13.711,
+   "end": 15.273,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 13.711,
+     "end": 14.032,
+     "conf": 0.05
+    },
+    {
+     "w": "enter",
+     "start": 14.192,
+     "end": 14.532,
+     "conf": 0.04
+    },
+    {
+     "w": "với",
+     "start": 14.612,
+     "end": 14.712,
+     "conf": 0.99
+    },
+    {
+     "w": "A-I",
+     "start": 15.212,
+     "end": 15.273,
+     "conf": 0.87
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "Verse 1",
+   "text": "Nó làm nhanh, ta kiểm tra",
+   "start": 15.553,
+   "end": 16.994,
+   "words": [
+    {
+     "w": "Nó",
+     "start": 15.553,
+     "end": 15.673,
+     "conf": 0.81
+    },
+    {
+     "w": "làm",
+     "start": 15.773,
+     "end": 15.913,
+     "conf": 0.99
+    },
+    {
+     "w": "nhanh",
+     "start": 16.013,
+     "end": 16.173,
+     "conf": 0.36
+    },
+    {
+     "w": "ta",
+     "start": 16.253,
+     "end": 16.353,
+     "conf": 0.98
+    },
+    {
+     "w": "kiểm",
+     "start": 16.474,
+     "end": 16.614,
+     "conf": 0.85
+    },
+    {
+     "w": "tra",
+     "start": 16.714,
+     "end": 16.994,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "Verse 2",
+   "text": "Mười giờ họp, mười hai ăn",
+   "start": 17.434,
+   "end": 18.775,
+   "words": [
+    {
+     "w": "Mười",
+     "start": 17.434,
+     "end": 17.594,
+     "conf": 0.99
+    },
+    {
+     "w": "giờ",
+     "start": 17.675,
+     "end": 17.835,
+     "conf": 0.95
+    },
+    {
+     "w": "họp",
+     "start": 17.895,
+     "end": 18.015,
+     "conf": 0.9
+    },
+    {
+     "w": "mười",
+     "start": 18.135,
+     "end": 18.315,
+     "conf": 1.0
+    },
+    {
+     "w": "hai",
+     "start": 18.395,
+     "end": 18.535,
+     "conf": 0.99
+    },
+    {
+     "w": "ăn",
+     "start": 18.715,
+     "end": 18.775,
+     "conf": 0.3
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "Verse 2",
+   "text": "Chiều nay deadline gõ cửa",
+   "start": 19.336,
+   "end": 20.797,
+   "words": [
+    {
+     "w": "Chiều",
+     "start": 19.336,
+     "end": 19.516,
+     "conf": 0.92
+    },
+    {
+     "w": "nay",
+     "start": 19.596,
+     "end": 19.716,
+     "conf": 1.0
+    },
+    {
+     "w": "deadline",
+     "start": 19.796,
+     "end": 20.237,
+     "conf": 0.0
+    },
+    {
+     "w": "gõ",
+     "start": 20.277,
+     "end": 20.397,
+     "conf": 0.99
+    },
+    {
+     "w": "cửa",
+     "start": 20.537,
+     "end": 20.797,
+     "conf": 0.96
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "Verse 2",
+   "text": "Thân ở văn phòng đến năm rưỡi",
+   "start": 20.997,
+   "end": 22.639,
+   "words": [
+    {
+     "w": "Thân",
+     "start": 20.997,
+     "end": 21.137,
+     "conf": 0.97
+    },
+    {
+     "w": "ở",
+     "start": 21.358,
+     "end": 21.418,
+     "conf": 1.0
+    },
+    {
+     "w": "văn",
+     "start": 21.478,
+     "end": 21.598,
+     "conf": 1.0
+    },
+    {
+     "w": "phòng",
+     "start": 21.718,
+     "end": 21.898,
+     "conf": 0.98
+    },
+    {
+     "w": "đến",
+     "start": 21.978,
+     "end": 22.098,
+     "conf": 0.99
+    },
+    {
+     "w": "năm",
+     "start": 22.218,
+     "end": 22.318,
+     "conf": 1.0
+    },
+    {
+     "w": "rưỡi",
+     "start": 22.458,
+     "end": 22.639,
+     "conf": 0.96
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "Verse 2",
+   "text": "Tâm hồn bay tới ngày lương",
+   "start": 23.159,
+   "end": 24.72,
+   "words": [
+    {
+     "w": "Tâm",
+     "start": 23.159,
+     "end": 23.279,
+     "conf": 0.26
+    },
+    {
+     "w": "hồn",
+     "start": 23.399,
+     "end": 23.559,
+     "conf": 0.42
+    },
+    {
+     "w": "bay",
+     "start": 23.659,
+     "end": 23.8,
+     "conf": 0.58
+    },
+    {
+     "w": "tới",
+     "start": 23.9,
+     "end": 24.04,
+     "conf": 0.86
+    },
+    {
+     "w": "ngày",
+     "start": 24.12,
+     "end": 24.3,
+     "conf": 0.92
+    },
+    {
+     "w": "lương",
+     "start": 24.4,
+     "end": 24.72,
+     "conf": 0.81
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "Pre-Chorus",
+   "text": "Gõ prompt rồi lại bấm Enter",
+   "start": 25.081,
+   "end": 26.742,
+   "words": [
+    {
+     "w": "Gõ",
+     "start": 25.081,
+     "end": 25.181,
+     "conf": 0.08
+    },
+    {
+     "w": "prompt",
+     "start": 25.301,
+     "end": 25.501,
+     "conf": 0.0
+    },
+    {
+     "w": "rồi",
+     "start": 25.541,
+     "end": 25.641,
+     "conf": 0.42
+    },
+    {
+     "w": "lại",
+     "start": 25.681,
+     "end": 25.741,
+     "conf": 0.77
+    },
+    {
+     "w": "bấm",
+     "start": 25.781,
+     "end": 25.901,
+     "conf": 0.81
+    },
+    {
+     "w": "Enter",
+     "start": 26.101,
+     "end": 26.742,
+     "conf": 0.09
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "Pre-Chorus",
+   "text": "A-I... à nhầm, giờ là Ess-Eye",
+   "start": 27.082,
+   "end": 29.905,
+   "words": [
+    {
+     "w": "A-I...",
+     "start": 27.082,
+     "end": 27.142,
+     "conf": 0.09
+    },
+    {
+     "w": "à",
+     "start": 27.583,
+     "end": 27.643,
+     "conf": 0.04
+    },
+    {
+     "w": "nhầm",
+     "start": 27.683,
+     "end": 27.883,
+     "conf": 0.22
+    },
+    {
+     "w": "giờ",
+     "start": 28.183,
+     "end": 28.323,
+     "conf": 0.79
+    },
+    {
+     "w": "là",
+     "start": 28.423,
+     "end": 28.543,
+     "conf": 0.9
+    },
+    {
+     "w": "Ess-Eye",
+     "start": 28.784,
+     "end": 29.905,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "Pre-Chorus",
+   "text": "Ess... ess... ess... Eye",
+   "start": 30.665,
+   "end": 32.347,
+   "words": [
+    {
+     "w": "Ess...",
+     "start": 30.665,
+     "end": 30.845,
+     "conf": 0.19
+    },
+    {
+     "w": "ess...",
+     "start": 31.166,
+     "end": 31.346,
+     "conf": 0.12
+    },
+    {
+     "w": "ess...",
+     "start": 31.666,
+     "end": 31.746,
+     "conf": 0.01
+    },
+    {
+     "w": "Eye",
+     "start": 32.287,
+     "end": 32.347,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "Pre-Chorus",
+   "text": "Su-per... in-tel-li-gence?",
+   "start": 32.687,
+   "end": 34.268,
+   "words": [
+    {
+     "w": "Su-per...",
+     "start": 32.687,
+     "end": 33.167,
+     "conf": 0.03
+    },
+    {
+     "w": "in-tel-li-gence?",
+     "start": 33.227,
+     "end": 34.268,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "Pre-Chorus",
+   "text": "Thôi khỏi! Ta chỉ cần... SUPER LƯƠNG!",
+   "start": 34.809,
+   "end": 38.091,
+   "words": [
+    {
+     "w": "Thôi",
+     "start": 34.809,
+     "end": 34.969,
+     "conf": 0.57
+    },
+    {
+     "w": "khỏi!",
+     "start": 35.049,
+     "end": 35.209,
+     "conf": 0.6
+    },
+    {
+     "w": "Ta",
+     "start": 35.289,
+     "end": 35.509,
+     "conf": 0.27
+    },
+    {
+     "w": "chỉ",
+     "start": 35.769,
+     "end": 35.909,
+     "conf": 0.9
+    },
+    {
+     "w": "cần...",
+     "start": 36.01,
+     "end": 36.13,
+     "conf": 0.9
+    },
+    {
+     "w": "SUPER",
+     "start": 36.25,
+     "end": 37.01,
+     "conf": 0.02
+    },
+    {
+     "w": "LƯƠNG!",
+     "start": 37.691,
+     "end": 38.091,
+     "conf": 0.06
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 38.171,
+   "end": 39.913,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 38.171,
+     "end": 38.412,
+     "conf": 0.21
+    },
+    {
+     "w": "tinh",
+     "start": 38.632,
+     "end": 38.812,
+     "conf": 0.16
+    },
+    {
+     "w": "tinh!",
+     "start": 38.872,
+     "end": 39.032,
+     "conf": 0.3
+    },
+    {
+     "w": "Tính",
+     "start": 39.112,
+     "end": 39.272,
+     "conf": 0.44
+    },
+    {
+     "w": "lương",
+     "start": 39.332,
+     "end": 39.512,
+     "conf": 0.15
+    },
+    {
+     "w": "về!",
+     "start": 39.593,
+     "end": 39.913,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "Chorus",
+   "text": "Tám rưỡi tới năm rưỡi",
+   "start": 40.533,
+   "end": 41.814,
+   "words": [
+    {
+     "w": "Tám",
+     "start": 40.533,
+     "end": 40.673,
+     "conf": 0.42
+    },
+    {
+     "w": "rưỡi",
+     "start": 40.794,
+     "end": 40.934,
+     "conf": 0.15
+    },
+    {
+     "w": "tới",
+     "start": 41.034,
+     "end": 41.194,
+     "conf": 0.51
+    },
+    {
+     "w": "năm",
+     "start": 41.274,
+     "end": 41.394,
+     "conf": 0.98
+    },
+    {
+     "w": "rưỡi",
+     "start": 41.514,
+     "end": 41.814,
+     "conf": 0.4
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 41.974,
+   "end": 43.716,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 41.974,
+     "end": 42.215,
+     "conf": 0.07
+    },
+    {
+     "w": "tinh",
+     "start": 42.455,
+     "end": 42.615,
+     "conf": 0.21
+    },
+    {
+     "w": "tinh!",
+     "start": 42.675,
+     "end": 42.855,
+     "conf": 0.34
+    },
+    {
+     "w": "Tính",
+     "start": 42.915,
+     "end": 43.075,
+     "conf": 0.44
+    },
+    {
+     "w": "lương",
+     "start": 43.135,
+     "end": 43.336,
+     "conf": 0.16
+    },
+    {
+     "w": "về!",
+     "start": 43.396,
+     "end": 43.716,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "Chorus",
+   "text": "Một tháng chờ một giây",
+   "start": 44.116,
+   "end": 45.297,
+   "words": [
+    {
+     "w": "Một",
+     "start": 44.116,
+     "end": 44.216,
+     "conf": 0.97
+    },
+    {
+     "w": "tháng",
+     "start": 44.316,
+     "end": 44.497,
+     "conf": 0.28
+    },
+    {
+     "w": "chờ",
+     "start": 44.557,
+     "end": 44.777,
+     "conf": 0.35
+    },
+    {
+     "w": "một",
+     "start": 44.857,
+     "end": 44.957,
+     "conf": 0.7
+    },
+    {
+     "w": "giây",
+     "start": 45.057,
+     "end": 45.297,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 45.778,
+   "end": 47.519,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 45.778,
+     "end": 46.038,
+     "conf": 0.34
+    },
+    {
+     "w": "tinh",
+     "start": 46.258,
+     "end": 46.438,
+     "conf": 0.33
+    },
+    {
+     "w": "tinh!",
+     "start": 46.498,
+     "end": 46.658,
+     "conf": 0.45
+    },
+    {
+     "w": "Tính",
+     "start": 46.738,
+     "end": 46.899,
+     "conf": 0.48
+    },
+    {
+     "w": "lương",
+     "start": 46.979,
+     "end": 47.159,
+     "conf": 0.13
+    },
+    {
+     "w": "về!",
+     "start": 47.219,
+     "end": 47.519,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "Chorus",
+   "text": "Cày cả tháng, giờ ăn",
+   "start": 48.14,
+   "end": 49.561,
+   "words": [
+    {
+     "w": "Cày",
+     "start": 48.14,
+     "end": 48.3,
+     "conf": 0.1
+    },
+    {
+     "w": "cả",
+     "start": 48.4,
+     "end": 48.54,
+     "conf": 0.39
+    },
+    {
+     "w": "tháng",
+     "start": 48.64,
+     "end": 48.8,
+     "conf": 0.38
+    },
+    {
+     "w": "giờ",
+     "start": 48.88,
+     "end": 49.02,
+     "conf": 0.05
+    },
+    {
+     "w": "ăn",
+     "start": 49.361,
+     "end": 49.561,
+     "conf": 0.04
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 49.621,
+   "end": 51.322,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 49.621,
+     "end": 49.841,
+     "conf": 0.1
+    },
+    {
+     "w": "tinh",
+     "start": 50.061,
+     "end": 50.241,
+     "conf": 0.15
+    },
+    {
+     "w": "tinh!",
+     "start": 50.301,
+     "end": 50.481,
+     "conf": 0.25
+    },
+    {
+     "w": "Tính",
+     "start": 50.542,
+     "end": 50.702,
+     "conf": 0.09
+    },
+    {
+     "w": "lương",
+     "start": 50.802,
+     "end": 50.962,
+     "conf": 0.02
+    },
+    {
+     "w": "về!",
+     "start": 51.022,
+     "end": 51.322,
+     "conf": 0.07
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "Chorus",
+   "text": "Hôm nay đại gia!",
+   "start": 51.722,
+   "end": 52.683,
+   "words": [
+    {
+     "w": "Hôm",
+     "start": 51.722,
+     "end": 51.883,
+     "conf": 0.98
+    },
+    {
+     "w": "nay",
+     "start": 51.983,
+     "end": 52.143,
+     "conf": 0.98
+    },
+    {
+     "w": "đại",
+     "start": 52.223,
+     "end": 52.343,
+     "conf": 0.97
+    },
+    {
+     "w": "gia!",
+     "start": 52.443,
+     "end": 52.683,
+     "conf": 0.17
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "Bridge",
+   "text": "Ess-Eye làm việc, Ess-Eye suy nghĩ",
+   "start": 68.937,
+   "end": 70.658,
+   "words": [
+    {
+     "w": "Ess-Eye",
+     "start": 68.937,
+     "end": 69.317,
+     "conf": 0.0
+    },
+    {
+     "w": "làm",
+     "start": 69.357,
+     "end": 69.477,
+     "conf": 1.0
+    },
+    {
+     "w": "việc",
+     "start": 69.577,
+     "end": 69.717,
+     "conf": 0.99
+    },
+    {
+     "w": "Ess-Eye",
+     "start": 69.877,
+     "end": 70.238,
+     "conf": 0.0
+    },
+    {
+     "w": "suy",
+     "start": 70.298,
+     "end": 70.438,
+     "conf": 0.98
+    },
+    {
+     "w": "nghĩ",
+     "start": 70.518,
+     "end": 70.658,
+     "conf": 0.84
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "Bridge",
+   "text": "Ess-Eye viết code, viết luôn",
+   "start": 70.838,
+   "end": 72.179,
+   "words": [
+    {
+     "w": "Ess-Eye",
+     "start": 70.838,
+     "end": 71.219,
+     "conf": 0.01
+    },
+    {
+     "w": "viết",
+     "start": 71.259,
+     "end": 71.379,
+     "conf": 0.94
+    },
+    {
+     "w": "code",
+     "start": 71.499,
+     "end": 71.659,
+     "conf": 0.0
+    },
+    {
+     "w": "viết",
+     "start": 71.739,
+     "end": 71.859,
+     "conf": 0.48
+    },
+    {
+     "w": "luôn",
+     "start": 71.959,
+     "end": 72.179,
+     "conf": 0.8
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "Bridge",
+   "text": "Nhưng ai đọc lại từng dòng?",
+   "start": 76.503,
+   "end": 77.904,
+   "words": [
+    {
+     "w": "Nhưng",
+     "start": 76.503,
+     "end": 76.663,
+     "conf": 0.94
+    },
+    {
+     "w": "ai",
+     "start": 76.863,
+     "end": 76.923,
+     "conf": 0.99
+    },
+    {
+     "w": "đọc",
+     "start": 76.983,
+     "end": 77.083,
+     "conf": 0.98
+    },
+    {
+     "w": "lại",
+     "start": 77.223,
+     "end": 77.344,
+     "conf": 1.0
+    },
+    {
+     "w": "từng",
+     "start": 77.444,
+     "end": 77.584,
+     "conf": 0.89
+    },
+    {
+     "w": "dòng?",
+     "start": 77.684,
+     "end": 77.904,
+     "conf": 0.78
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "Bridge",
+   "text": "Ai hiểu khách hàng muốn gì?",
+   "start": 78.504,
+   "end": 79.806,
+   "words": [
+    {
+     "w": "Ai",
+     "start": 78.504,
+     "end": 78.565,
+     "conf": 0.96
+    },
+    {
+     "w": "hiểu",
+     "start": 78.625,
+     "end": 78.765,
+     "conf": 0.38
+    },
+    {
+     "w": "khách",
+     "start": 78.845,
+     "end": 79.005,
+     "conf": 0.97
+    },
+    {
+     "w": "hàng",
+     "start": 79.105,
+     "end": 79.285,
+     "conf": 0.99
+    },
+    {
+     "w": "muốn",
+     "start": 79.345,
+     "end": 79.485,
+     "conf": 0.99
+    },
+    {
+     "w": "gì?",
+     "start": 79.585,
+     "end": 79.806,
+     "conf": 0.99
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "Bridge",
+   "text": "Ai chọn đúng giữa trăm lựa chọn?",
+   "start": 80.386,
+   "end": 81.887,
+   "words": [
+    {
+     "w": "Ai",
+     "start": 80.386,
+     "end": 80.446,
+     "conf": 0.94
+    },
+    {
+     "w": "chọn",
+     "start": 80.526,
+     "end": 80.666,
+     "conf": 0.92
+    },
+    {
+     "w": "đúng",
+     "start": 80.766,
+     "end": 80.906,
+     "conf": 0.2
+    },
+    {
+     "w": "giữa",
+     "start": 81.027,
+     "end": 81.147,
+     "conf": 0.97
+    },
+    {
+     "w": "trăm",
+     "start": 81.247,
+     "end": 81.347,
+     "conf": 0.05
+    },
+    {
+     "w": "lựa",
+     "start": 81.487,
+     "end": 81.647,
+     "conf": 1.0
+    },
+    {
+     "w": "chọn?",
+     "start": 81.727,
+     "end": 81.887,
+     "conf": 0.98
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "Bridge",
+   "text": "Máy thì nhanh, ta thì tinh",
+   "start": 82.468,
+   "end": 83.809,
+   "words": [
+    {
+     "w": "Máy",
+     "start": 82.468,
+     "end": 82.588,
+     "conf": 0.95
+    },
+    {
+     "w": "thì",
+     "start": 82.688,
+     "end": 82.848,
+     "conf": 0.72
+    },
+    {
+     "w": "nhanh",
+     "start": 83.148,
+     "end": 83.308,
+     "conf": 0.35
+    },
+    {
+     "w": "ta",
+     "start": 83.409,
+     "end": 83.549,
+     "conf": 0.92
+    },
+    {
+     "w": "thì",
+     "start": 83.649,
+     "end": 83.709,
+     "conf": 0.03
+    },
+    {
+     "w": "tinh",
+     "start": 83.729,
+     "end": 83.809,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "Final Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 83.909,
+   "end": 85.63,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 83.909,
+     "end": 84.129,
+     "conf": 0.11
+    },
+    {
+     "w": "tinh",
+     "start": 84.389,
+     "end": 84.549,
+     "conf": 0.14
+    },
+    {
+     "w": "tinh!",
+     "start": 84.61,
+     "end": 84.77,
+     "conf": 0.32
+    },
+    {
+     "w": "Tính",
+     "start": 84.85,
+     "end": 85.01,
+     "conf": 0.23
+    },
+    {
+     "w": "lương",
+     "start": 85.09,
+     "end": 85.25,
+     "conf": 0.05
+    },
+    {
+     "w": "về!",
+     "start": 85.31,
+     "end": 85.63,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "Final Chorus",
+   "text": "Tám rưỡi tới năm rưỡi",
+   "start": 86.271,
+   "end": 87.572,
+   "words": [
+    {
+     "w": "Tám",
+     "start": 86.271,
+     "end": 86.411,
+     "conf": 0.06
+    },
+    {
+     "w": "rưỡi",
+     "start": 86.511,
+     "end": 86.651,
+     "conf": 0.02
+    },
+    {
+     "w": "tới",
+     "start": 86.751,
+     "end": 86.911,
+     "conf": 0.24
+    },
+    {
+     "w": "năm",
+     "start": 86.991,
+     "end": 87.112,
+     "conf": 0.94
+    },
+    {
+     "w": "rưỡi",
+     "start": 87.232,
+     "end": 87.572,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "section": "Final Chorus",
+   "text": "Tinh, tinh, tinh! Tính... lương đi!",
+   "start": 87.712,
+   "end": 89.333,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 87.712,
+     "end": 87.952,
+     "conf": 0.08
+    },
+    {
+     "w": "tinh",
+     "start": 88.192,
+     "end": 88.353,
+     "conf": 0.26
+    },
+    {
+     "w": "tinh!",
+     "start": 88.413,
+     "end": 88.593,
+     "conf": 0.26
+    },
+    {
+     "w": "Tính...",
+     "start": 88.653,
+     "end": 88.813,
+     "conf": 0.17
+    },
+    {
+     "w": "lương",
+     "start": 88.893,
+     "end": 89.073,
+     "conf": 0.21
+    },
+    {
+     "w": "đi!",
+     "start": 89.133,
+     "end": 89.333,
+     "conf": 0.75
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "section": "Final Chorus",
+   "text": "Tiền nhà, trả góp rồi",
+   "start": 89.834,
+   "end": 91.255,
+   "words": [
+    {
+     "w": "Tiền",
+     "start": 89.834,
+     "end": 89.974,
+     "conf": 0.68
+    },
+    {
+     "w": "nhà",
+     "start": 90.054,
+     "end": 90.194,
+     "conf": 0.83
+    },
+    {
+     "w": "trả",
+     "start": 90.274,
+     "end": 90.434,
+     "conf": 0.29
+    },
+    {
+     "w": "góp",
+     "start": 90.534,
+     "end": 90.674,
+     "conf": 0.55
+    },
+    {
+     "w": "rồi",
+     "start": 90.795,
+     "end": 91.255,
+     "conf": 0.71
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "section": "Final Chorus",
+   "text": "Tinh, tinh, tinh! Tính... lương đi!",
+   "start": 91.495,
+   "end": 93.157,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 91.495,
+     "end": 91.755,
+     "conf": 0.23
+    },
+    {
+     "w": "tinh",
+     "start": 91.976,
+     "end": 92.136,
+     "conf": 0.19
+    },
+    {
+     "w": "tinh!",
+     "start": 92.216,
+     "end": 92.376,
+     "conf": 0.38
+    },
+    {
+     "w": "Tính...",
+     "start": 92.436,
+     "end": 92.596,
+     "conf": 0.57
+    },
+    {
+     "w": "lương",
+     "start": 92.676,
+     "end": 92.876,
+     "conf": 0.54
+    },
+    {
+     "w": "đi!",
+     "start": 92.936,
+     "end": 93.157,
+     "conf": 0.67
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "section": "Final Chorus",
+   "text": "Số dư một trăm nghìn",
+   "start": 93.877,
+   "end": 95.138,
+   "words": [
+    {
+     "w": "Số",
+     "start": 93.877,
+     "end": 94.017,
+     "conf": 0.34
+    },
+    {
+     "w": "dư",
+     "start": 94.117,
+     "end": 94.197,
+     "conf": 0.02
+    },
+    {
+     "w": "một",
+     "start": 94.378,
+     "end": 94.478,
+     "conf": 0.96
+    },
+    {
+     "w": "trăm",
+     "start": 94.558,
+     "end": 94.718,
+     "conf": 0.95
+    },
+    {
+     "w": "nghìn",
+     "start": 94.818,
+     "end": 95.138,
+     "conf": 0.93
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "section": "Final Chorus",
+   "text": "Tinh, tinh, tinh! Tính lương về!",
+   "start": 95.318,
+   "end": 96.86,
+   "words": [
+    {
+     "w": "Tinh",
+     "start": 95.318,
+     "end": 95.518,
+     "conf": 0.13
+    },
+    {
+     "w": "tinh",
+     "start": 95.799,
+     "end": 95.959,
+     "conf": 0.44
+    },
+    {
+     "w": "tinh!",
+     "start": 96.019,
+     "end": 96.179,
+     "conf": 0.33
+    },
+    {
+     "w": "Tính",
+     "start": 96.259,
+     "end": 96.419,
+     "conf": 0.29
+    },
+    {
+     "w": "lương",
+     "start": 96.499,
+     "end": 96.679,
+     "conf": 0.24
+    },
+    {
+     "w": "về!",
+     "start": 96.739,
+     "end": 96.86,
+     "conf": 0.4
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "section": "Final Chorus",
+   "text": "Mai lại tám rưỡi thôi!",
+   "start": 97.68,
+   "end": 99.567,
+   "words": [
+    {
+     "w": "Mai",
+     "start": 97.68,
+     "end": 97.86,
+     "conf": 0.59
+    },
+    {
+     "w": "lại",
+     "start": 97.92,
+     "end": 98.061,
+     "conf": 0.82
+    },
+    {
+     "w": "tám",
+     "start": 98.161,
+     "end": 98.321,
+     "conf": 0.22
+    },
+    {
+     "w": "rưỡi",
+     "start": 98.401,
+     "end": 98.541,
+     "conf": 0.17
+    },
+    {
+     "w": "thôi!",
+     "start": 98.667,
+     "end": 99.567,
+     "conf": 0.3
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "section": "Outro",
+   "text": "Năm giờ rưỡi rồi... về thôi",
+   "start": 114.434,
+   "end": 115.515,
+   "words": [
+    {
+     "w": "Năm",
+     "start": 114.434,
+     "end": 114.514,
+     "conf": 0.98
+    },
+    {
+     "w": "giờ",
+     "start": 114.594,
+     "end": 114.674,
+     "conf": 0.45
+    },
+    {
+     "w": "rưỡi",
+     "start": 114.734,
+     "end": 114.854,
+     "conf": 0.04
+    },
+    {
+     "w": "rồi...",
+     "start": 114.914,
+     "end": 115.034,
+     "conf": 0.54
+    },
+    {
+     "w": "về",
+     "start": 115.095,
+     "end": 115.215,
+     "conf": 0.9
+    },
+    {
+     "w": "thôi",
+     "start": 115.315,
+     "end": 115.515,
+     "conf": 0.97
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "section": "Outro",
+   "text": "Còn hai mươi chín ngày nữa...",
+   "start": 116.476,
+   "end": 117.577,
+   "words": [
+    {
+     "w": "Còn",
+     "start": 116.476,
+     "end": 116.596,
+     "conf": 0.98
+    },
+    {
+     "w": "hai",
+     "start": 116.656,
+     "end": 116.736,
+     "conf": 0.9
+    },
+    {
+     "w": "mươi",
+     "start": 116.796,
+     "end": 116.896,
+     "conf": 0.97
+    },
+    {
+     "w": "chín",
+     "start": 116.936,
+     "end": 117.076,
+     "conf": 0.97
+    },
+    {
+     "w": "ngày",
+     "start": 117.156,
+     "end": 117.296,
+     "conf": 0.9
+    },
+    {
+     "w": "nữa...",
+     "start": 117.376,
+     "end": 117.577,
+     "conf": 0.98
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "section": "Outro",
+   "text": "Tinh... tinh... ess... Eye.",
+   "start": 120.079,
+   "end": 122.14,
+   "words": [
+    {
+     "w": "Tinh...",
+     "start": 120.079,
+     "end": 120.199,
+     "conf": 0.89
+    },
+    {
+     "w": "tinh...",
+     "start": 120.319,
+     "end": 120.459,
+     "conf": 0.77
+    },
+    {
+     "w": "ess...",
+     "start": 120.699,
+     "end": 120.779,
+     "conf": 0.01
+    },
+    {
+     "w": "Eye.",
+     "start": 121.64,
+     "end": 122.14,
+     "conf": 0.02
+    }
+   ]
+  }
+ ],
+ "notes": "whole-song CTC forced alignment (wav2vec2-base-vietnamese-250h) on Demucs vocals"
+}

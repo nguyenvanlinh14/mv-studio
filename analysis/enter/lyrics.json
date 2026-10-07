@@ -1,0 +1,1595 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "Intro",
+   "text": "Gõ máy, click chuột",
+   "start": 4.263,
+   "end": 5.764,
+   "words": [
+    {
+     "w": "Gõ",
+     "start": 4.263,
+     "end": 4.403,
+     "conf": 0.01
+    },
+    {
+     "w": "máy",
+     "start": 4.523,
+     "end": 4.723,
+     "conf": 0.93
+    },
+    {
+     "w": "click",
+     "start": 5.244,
+     "end": 5.424,
+     "conf": 0.0
+    },
+    {
+     "w": "chuột",
+     "start": 5.544,
+     "end": 5.764,
+     "conf": 0.69
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "Verse 1",
+   "text": "Chín giờ sáng mở máy lên",
+   "start": 8.005,
+   "end": 10.948,
+   "words": [
+    {
+     "w": "Chín",
+     "start": 8.005,
+     "end": 8.266,
+     "conf": 0.59
+    },
+    {
+     "w": "giờ",
+     "start": 8.526,
+     "end": 8.746,
+     "conf": 0.93
+    },
+    {
+     "w": "sáng",
+     "start": 9.006,
+     "end": 9.306,
+     "conf": 0.93
+    },
+    {
+     "w": "mở",
+     "start": 9.507,
+     "end": 9.807,
+     "conf": 0.12
+    },
+    {
+     "w": "máy",
+     "start": 10.027,
+     "end": 10.227,
+     "conf": 0.94
+    },
+    {
+     "w": "lên",
+     "start": 10.527,
+     "end": 10.948,
+     "conf": 0.97
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "Verse 1",
+   "text": "Sếp hỏi gì cũng gõ vào",
+   "start": 12.028,
+   "end": 14.49,
+   "words": [
+    {
+     "w": "Sếp",
+     "start": 12.028,
+     "end": 12.409,
+     "conf": 0.25
+    },
+    {
+     "w": "hỏi",
+     "start": 12.729,
+     "end": 12.889,
+     "conf": 0.26
+    },
+    {
+     "w": "gì",
+     "start": 13.049,
+     "end": 13.209,
+     "conf": 0.89
+    },
+    {
+     "w": "cũng",
+     "start": 13.389,
+     "end": 13.529,
+     "conf": 1.0
+    },
+    {
+     "w": "gõ",
+     "start": 13.669,
+     "end": 13.87,
+     "conf": 0.94
+    },
+    {
+     "w": "vào",
+     "start": 14.03,
+     "end": 14.49,
+     "conf": 0.89
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "Verse 1",
+   "text": "Báo cáo, slide, email dài",
+   "start": 16.031,
+   "end": 19.153,
+   "words": [
+    {
+     "w": "Báo",
+     "start": 16.031,
+     "end": 16.291,
+     "conf": 0.79
+    },
+    {
+     "w": "cáo",
+     "start": 16.531,
+     "end": 16.812,
+     "conf": 0.82
+    },
+    {
+     "w": "slide",
+     "start": 17.032,
+     "end": 17.69,
+     "conf": 0.01
+    },
+    {
+     "w": "email",
+     "start": 18.273,
+     "end": 18.673,
+     "conf": 0.01
+    },
+    {
+     "w": "dài",
+     "start": 18.793,
+     "end": 19.153,
+     "conf": 0.92
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "Verse 1",
+   "text": "Agent làm hết, ta ngồi xem",
+   "start": 19.834,
+   "end": 22.295,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 19.834,
+     "end": 20.294,
+     "conf": 0.07
+    },
+    {
+     "w": "làm",
+     "start": 20.794,
+     "end": 20.914,
+     "conf": 0.99
+    },
+    {
+     "w": "hết",
+     "start": 21.034,
+     "end": 21.195,
+     "conf": 0.98
+    },
+    {
+     "w": "ta",
+     "start": 21.395,
+     "end": 21.595,
+     "conf": 0.96
+    },
+    {
+     "w": "ngồi",
+     "start": 21.755,
+     "end": 21.935,
+     "conf": 0.85
+    },
+    {
+     "w": "xem",
+     "start": 22.075,
+     "end": 22.295,
+     "conf": 0.77
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "Verse 2",
+   "text": "Dev không code, chỉ prompt thôi",
+   "start": 24.037,
+   "end": 26.558,
+   "words": [
+    {
+     "w": "Dev",
+     "start": 24.037,
+     "end": 24.277,
+     "conf": 0.02
+    },
+    {
+     "w": "không",
+     "start": 24.517,
+     "end": 24.777,
+     "conf": 0.94
+    },
+    {
+     "w": "code",
+     "start": 25.017,
+     "end": 25.297,
+     "conf": 0.0
+    },
+    {
+     "w": "chỉ",
+     "start": 25.518,
+     "end": 25.758,
+     "conf": 0.61
+    },
+    {
+     "w": "prompt",
+     "start": 26.018,
+     "end": 26.218,
+     "conf": 0.0
+    },
+    {
+     "w": "thôi",
+     "start": 26.298,
+     "end": 26.558,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "Verse 2",
+   "text": "Designer vẽ bằng một câu",
+   "start": 27.779,
+   "end": 30.321,
+   "words": [
+    {
+     "w": "Designer",
+     "start": 27.779,
+     "end": 28.64,
+     "conf": 0.02
+    },
+    {
+     "w": "vẽ",
+     "start": 29.02,
+     "end": 29.2,
+     "conf": 0.89
+    },
+    {
+     "w": "bằng",
+     "start": 29.4,
+     "end": 29.58,
+     "conf": 0.98
+    },
+    {
+     "w": "một",
+     "start": 29.74,
+     "end": 29.901,
+     "conf": 0.84
+    },
+    {
+     "w": "câu",
+     "start": 30.021,
+     "end": 30.321,
+     "conf": 0.63
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "Verse 2",
+   "text": "Sale, HR, kế toán luôn",
+   "start": 32.022,
+   "end": 35.284,
+   "words": [
+    {
+     "w": "Sale",
+     "start": 32.022,
+     "end": 32.783,
+     "conf": 0.02
+    },
+    {
+     "w": "HR",
+     "start": 33.003,
+     "end": 33.343,
+     "conf": 0.02
+    },
+    {
+     "w": "kế",
+     "start": 33.523,
+     "end": 33.783,
+     "conf": 0.15
+    },
+    {
+     "w": "toán",
+     "start": 34.023,
+     "end": 34.584,
+     "conf": 0.19
+    },
+    {
+     "w": "luôn",
+     "start": 34.784,
+     "end": 35.284,
+     "conf": 0.37
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "Verse 2",
+   "text": "Ai cũng chung một phím thần",
+   "start": 36.305,
+   "end": 38.206,
+   "words": [
+    {
+     "w": "Ai",
+     "start": 36.305,
+     "end": 36.365,
+     "conf": 0.92
+    },
+    {
+     "w": "cũng",
+     "start": 36.745,
+     "end": 36.885,
+     "conf": 1.0
+    },
+    {
+     "w": "chung",
+     "start": 37.025,
+     "end": 37.226,
+     "conf": 0.68
+    },
+    {
+     "w": "một",
+     "start": 37.386,
+     "end": 37.526,
+     "conf": 0.99
+    },
+    {
+     "w": "phím",
+     "start": 37.666,
+     "end": 37.826,
+     "conf": 0.08
+    },
+    {
+     "w": "thần",
+     "start": 38.006,
+     "end": 38.206,
+     "conf": 0.94
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "Pre-Chorus",
+   "text": "Gõ một dòng, rồi chờ nhé",
+   "start": 40.048,
+   "end": 41.669,
+   "words": [
+    {
+     "w": "Gõ",
+     "start": 40.048,
+     "end": 40.188,
+     "conf": 0.56
+    },
+    {
+     "w": "một",
+     "start": 40.308,
+     "end": 40.428,
+     "conf": 0.97
+    },
+    {
+     "w": "dòng",
+     "start": 40.528,
+     "end": 40.688,
+     "conf": 0.42
+    },
+    {
+     "w": "rồi",
+     "start": 40.788,
+     "end": 40.908,
+     "conf": 0.19
+    },
+    {
+     "w": "chờ",
+     "start": 41.028,
+     "end": 41.268,
+     "conf": 0.4
+    },
+    {
+     "w": "nhé",
+     "start": 41.408,
+     "end": 41.669,
+     "conf": 0.56
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "Pre-Chorus",
+   "text": "Thanh loading chạy vòng vòng",
+   "start": 41.989,
+   "end": 43.63,
+   "words": [
+    {
+     "w": "Thanh",
+     "start": 41.989,
+     "end": 42.189,
+     "conf": 0.86
+    },
+    {
+     "w": "loading",
+     "start": 42.289,
+     "end": 42.669,
+     "conf": 0.05
+    },
+    {
+     "w": "chạy",
+     "start": 42.769,
+     "end": 42.909,
+     "conf": 0.1
+    },
+    {
+     "w": "vòng",
+     "start": 43.03,
+     "end": 43.23,
+     "conf": 0.95
+    },
+    {
+     "w": "vòng",
+     "start": 43.39,
+     "end": 43.63,
+     "conf": 0.97
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "Pre-Chorus",
+   "text": "Nó hỏi \"Proceed?\" — yes!",
+   "start": 44.03,
+   "end": 45.271,
+   "words": [
+    {
+     "w": "Nó",
+     "start": 44.03,
+     "end": 44.17,
+     "conf": 0.84
+    },
+    {
+     "w": "hỏi",
+     "start": 44.27,
+     "end": 44.431,
+     "conf": 0.88
+    },
+    {
+     "w": "\"Proceed?\"",
+     "start": 44.511,
+     "end": 44.951,
+     "conf": 0.02
+    },
+    {
+     "w": "yes!",
+     "start": 45.071,
+     "end": 45.271,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "Pre-Chorus",
+   "text": "Tay ta chỉ biết làm một điều",
+   "start": 45.531,
+   "end": 47.493,
+   "words": [
+    {
+     "w": "Tay",
+     "start": 45.531,
+     "end": 45.671,
+     "conf": 0.41
+    },
+    {
+     "w": "ta",
+     "start": 45.771,
+     "end": 45.912,
+     "conf": 0.78
+    },
+    {
+     "w": "chỉ",
+     "start": 46.012,
+     "end": 46.192,
+     "conf": 0.18
+    },
+    {
+     "w": "biết",
+     "start": 46.292,
+     "end": 46.432,
+     "conf": 0.16
+    },
+    {
+     "w": "làm",
+     "start": 46.532,
+     "end": 46.692,
+     "conf": 0.26
+    },
+    {
+     "w": "một",
+     "start": 46.772,
+     "end": 46.932,
+     "conf": 0.99
+    },
+    {
+     "w": "điều",
+     "start": 47.032,
+     "end": 47.493,
+     "conf": 0.66
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 48.093,
+   "end": 49.514,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 48.093,
+     "end": 48.533,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 48.834,
+     "end": 49.054,
+     "conf": 0.02
+    },
+    {
+     "w": "enter!",
+     "start": 49.114,
+     "end": 49.514,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "Chorus",
+   "text": "Cả công ty cùng enter",
+   "start": 50.014,
+   "end": 51.515,
+   "words": [
+    {
+     "w": "Cả",
+     "start": 50.014,
+     "end": 50.134,
+     "conf": 0.62
+    },
+    {
+     "w": "công",
+     "start": 50.275,
+     "end": 50.435,
+     "conf": 0.84
+    },
+    {
+     "w": "ty",
+     "start": 50.515,
+     "end": 50.655,
+     "conf": 0.4
+    },
+    {
+     "w": "cùng",
+     "start": 50.775,
+     "end": 50.955,
+     "conf": 0.97
+    },
+    {
+     "w": "enter",
+     "start": 51.135,
+     "end": 51.515,
+     "conf": 0.04
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 52.136,
+   "end": 53.517,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 52.136,
+     "end": 52.536,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 52.836,
+     "end": 53.016,
+     "conf": 0.03
+    },
+    {
+     "w": "enter!",
+     "start": 53.116,
+     "end": 53.517,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "Chorus",
+   "text": "Agent chạy, ta thảnh thơi",
+   "start": 53.877,
+   "end": 55.478,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 53.877,
+     "end": 54.217,
+     "conf": 0.03
+    },
+    {
+     "w": "chạy",
+     "start": 54.257,
+     "end": 54.437,
+     "conf": 0.53
+    },
+    {
+     "w": "ta",
+     "start": 54.537,
+     "end": 54.678,
+     "conf": 0.91
+    },
+    {
+     "w": "thảnh",
+     "start": 54.778,
+     "end": 54.958,
+     "conf": 0.32
+    },
+    {
+     "w": "thơi",
+     "start": 55.058,
+     "end": 55.478,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 56.119,
+   "end": 57.54,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 56.119,
+     "end": 56.539,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 56.839,
+     "end": 57.059,
+     "conf": 0.02
+    },
+    {
+     "w": "enter!",
+     "start": 57.099,
+     "end": 57.54,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "Chorus",
+   "text": "Từ thực tập tới giám đốc",
+   "start": 58.04,
+   "end": 59.821,
+   "words": [
+    {
+     "w": "Từ",
+     "start": 58.04,
+     "end": 58.18,
+     "conf": 0.87
+    },
+    {
+     "w": "thực",
+     "start": 58.26,
+     "end": 58.4,
+     "conf": 0.07
+    },
+    {
+     "w": "tập",
+     "start": 58.52,
+     "end": 58.68,
+     "conf": 0.25
+    },
+    {
+     "w": "tới",
+     "start": 58.78,
+     "end": 58.94,
+     "conf": 0.0
+    },
+    {
+     "w": "giám",
+     "start": 59.041,
+     "end": 59.401,
+     "conf": 0.16
+    },
+    {
+     "w": "đốc",
+     "start": 59.561,
+     "end": 59.821,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 60.121,
+   "end": 61.502,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 60.121,
+     "end": 60.522,
+     "conf": 0.01
+    },
+    {
+     "w": "enter",
+     "start": 60.822,
+     "end": 61.022,
+     "conf": 0.02
+    },
+    {
+     "w": "enter!",
+     "start": 61.082,
+     "end": 61.502,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "Chorus",
+   "text": "Một phím thôi, xong cả đời",
+   "start": 61.742,
+   "end": 63.524,
+   "words": [
+    {
+     "w": "Một",
+     "start": 61.742,
+     "end": 61.882,
+     "conf": 0.93
+    },
+    {
+     "w": "phím",
+     "start": 62.003,
+     "end": 62.163,
+     "conf": 0.01
+    },
+    {
+     "w": "thôi",
+     "start": 62.243,
+     "end": 62.403,
+     "conf": 0.01
+    },
+    {
+     "w": "xong",
+     "start": 62.523,
+     "end": 62.683,
+     "conf": 0.13
+    },
+    {
+     "w": "cả",
+     "start": 62.763,
+     "end": 62.963,
+     "conf": 0.96
+    },
+    {
+     "w": "đời",
+     "start": 63.063,
+     "end": 63.524,
+     "conf": 0.67
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "Bridge",
+   "text": "Nhưng mà khoan, ai đọc kỹ?",
+   "start": 76.032,
+   "end": 78.134,
+   "words": [
+    {
+     "w": "Nhưng",
+     "start": 76.032,
+     "end": 76.272,
+     "conf": 0.96
+    },
+    {
+     "w": "mà",
+     "start": 76.753,
+     "end": 76.893,
+     "conf": 0.99
+    },
+    {
+     "w": "khoan",
+     "start": 76.993,
+     "end": 77.213,
+     "conf": 0.94
+    },
+    {
+     "w": "ai",
+     "start": 77.573,
+     "end": 77.633,
+     "conf": 0.99
+    },
+    {
+     "w": "đọc",
+     "start": 77.753,
+     "end": 77.873,
+     "conf": 0.97
+    },
+    {
+     "w": "kỹ?",
+     "start": 78.014,
+     "end": 78.134,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "Bridge",
+   "text": "Ai hiểu nó vừa làm gì?",
+   "start": 80.315,
+   "end": 82.236,
+   "words": [
+    {
+     "w": "Ai",
+     "start": 80.315,
+     "end": 80.375,
+     "conf": 0.98
+    },
+    {
+     "w": "hiểu",
+     "start": 80.755,
+     "end": 80.916,
+     "conf": 0.46
+    },
+    {
+     "w": "nó",
+     "start": 81.036,
+     "end": 81.236,
+     "conf": 0.93
+    },
+    {
+     "w": "vừa",
+     "start": 81.416,
+     "end": 81.636,
+     "conf": 0.98
+    },
+    {
+     "w": "làm",
+     "start": 81.776,
+     "end": 81.916,
+     "conf": 0.98
+    },
+    {
+     "w": "gì?",
+     "start": 82.056,
+     "end": 82.236,
+     "conf": 0.9
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "Bridge",
+   "text": "Bấm thì nhanh, nghĩ thì chậm",
+   "start": 84.038,
+   "end": 86.72,
+   "words": [
+    {
+     "w": "Bấm",
+     "start": 84.038,
+     "end": 84.198,
+     "conf": 0.7
+    },
+    {
+     "w": "thì",
+     "start": 84.498,
+     "end": 84.798,
+     "conf": 0.91
+    },
+    {
+     "w": "nhanh",
+     "start": 85.018,
+     "end": 85.279,
+     "conf": 0.9
+    },
+    {
+     "w": "nghĩ",
+     "start": 85.519,
+     "end": 85.739,
+     "conf": 0.93
+    },
+    {
+     "w": "thì",
+     "start": 86.019,
+     "end": 86.279,
+     "conf": 0.67
+    },
+    {
+     "w": "chậm",
+     "start": 86.539,
+     "end": 86.72,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "Bridge",
+   "text": "Đừng để não thành phím Enter",
+   "start": 87.78,
+   "end": 90.342,
+   "words": [
+    {
+     "w": "Đừng",
+     "start": 87.78,
+     "end": 87.94,
+     "conf": 0.63
+    },
+    {
+     "w": "để",
+     "start": 88.04,
+     "end": 88.221,
+     "conf": 0.58
+    },
+    {
+     "w": "não",
+     "start": 88.781,
+     "end": 88.941,
+     "conf": 0.77
+    },
+    {
+     "w": "thành",
+     "start": 89.041,
+     "end": 89.241,
+     "conf": 0.94
+    },
+    {
+     "w": "phím",
+     "start": 89.401,
+     "end": 89.562,
+     "conf": 0.06
+    },
+    {
+     "w": "Enter",
+     "start": 89.862,
+     "end": 90.342,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 92.103,
+   "end": 93.584,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 92.103,
+     "end": 92.644,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 92.864,
+     "end": 93.064,
+     "conf": 0.03
+    },
+    {
+     "w": "enter!",
+     "start": 93.164,
+     "end": 93.584,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "Chorus",
+   "text": "Cả công ty cùng enter",
+   "start": 94.025,
+   "end": 95.566,
+   "words": [
+    {
+     "w": "Cả",
+     "start": 94.025,
+     "end": 94.145,
+     "conf": 0.87
+    },
+    {
+     "w": "công",
+     "start": 94.285,
+     "end": 94.425,
+     "conf": 0.99
+    },
+    {
+     "w": "ty",
+     "start": 94.545,
+     "end": 94.665,
+     "conf": 0.88
+    },
+    {
+     "w": "cùng",
+     "start": 94.785,
+     "end": 94.945,
+     "conf": 0.16
+    },
+    {
+     "w": "enter",
+     "start": 95.105,
+     "end": 95.566,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 96.126,
+   "end": 97.547,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 96.126,
+     "end": 96.646,
+     "conf": 0.03
+    },
+    {
+     "w": "enter",
+     "start": 96.867,
+     "end": 97.107,
+     "conf": 0.03
+    },
+    {
+     "w": "enter!",
+     "start": 97.167,
+     "end": 97.547,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "Chorus",
+   "text": "Agent chạy, ta thảnh thơi",
+   "start": 97.927,
+   "end": 99.468,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 97.927,
+     "end": 98.247,
+     "conf": 0.02
+    },
+    {
+     "w": "chạy",
+     "start": 98.308,
+     "end": 98.448,
+     "conf": 0.51
+    },
+    {
+     "w": "ta",
+     "start": 98.568,
+     "end": 98.708,
+     "conf": 0.88
+    },
+    {
+     "w": "thảnh",
+     "start": 98.788,
+     "end": 98.948,
+     "conf": 0.27
+    },
+    {
+     "w": "thơi",
+     "start": 99.068,
+     "end": 99.468,
+     "conf": 0.72
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 100.129,
+   "end": 101.59,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 100.129,
+     "end": 100.569,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 100.869,
+     "end": 101.089,
+     "conf": 0.03
+    },
+    {
+     "w": "enter!",
+     "start": 101.149,
+     "end": 101.59,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "section": "Chorus",
+   "text": "Từ thực tập tới giám đốc",
+   "start": 102.05,
+   "end": 103.891,
+   "words": [
+    {
+     "w": "Từ",
+     "start": 102.05,
+     "end": 102.21,
+     "conf": 0.87
+    },
+    {
+     "w": "thực",
+     "start": 102.33,
+     "end": 102.47,
+     "conf": 0.42
+    },
+    {
+     "w": "tập",
+     "start": 102.57,
+     "end": 102.691,
+     "conf": 0.07
+    },
+    {
+     "w": "tới",
+     "start": 102.811,
+     "end": 102.971,
+     "conf": 0.26
+    },
+    {
+     "w": "giám",
+     "start": 103.071,
+     "end": 103.451,
+     "conf": 0.12
+    },
+    {
+     "w": "đốc",
+     "start": 103.571,
+     "end": 103.891,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 104.152,
+   "end": 105.532,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 104.152,
+     "end": 104.552,
+     "conf": 0.03
+    },
+    {
+     "w": "enter",
+     "start": 104.852,
+     "end": 105.072,
+     "conf": 0.03
+    },
+    {
+     "w": "enter!",
+     "start": 105.132,
+     "end": 105.532,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "section": "Chorus",
+   "text": "Một phím thôi, xong cả đời",
+   "start": 105.793,
+   "end": 107.614,
+   "words": [
+    {
+     "w": "Một",
+     "start": 105.793,
+     "end": 105.933,
+     "conf": 0.97
+    },
+    {
+     "w": "phím",
+     "start": 106.053,
+     "end": 106.213,
+     "conf": 0.14
+    },
+    {
+     "w": "thôi",
+     "start": 106.293,
+     "end": 106.453,
+     "conf": 0.67
+    },
+    {
+     "w": "xong",
+     "start": 106.553,
+     "end": 106.733,
+     "conf": 0.72
+    },
+    {
+     "w": "cả",
+     "start": 106.813,
+     "end": 107.013,
+     "conf": 0.49
+    },
+    {
+     "w": "đời",
+     "start": 107.114,
+     "end": 107.614,
+     "conf": 0.38
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 108.114,
+   "end": 109.535,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 108.114,
+     "end": 108.515,
+     "conf": 0.01
+    },
+    {
+     "w": "enter",
+     "start": 108.835,
+     "end": 109.015,
+     "conf": 0.02
+    },
+    {
+     "w": "enter!",
+     "start": 109.115,
+     "end": 109.535,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "section": "Chorus",
+   "text": "Cả công ty cùng enter",
+   "start": 110.016,
+   "end": 111.537,
+   "words": [
+    {
+     "w": "Cả",
+     "start": 110.016,
+     "end": 110.156,
+     "conf": 0.71
+    },
+    {
+     "w": "công",
+     "start": 110.256,
+     "end": 110.436,
+     "conf": 0.82
+    },
+    {
+     "w": "ty",
+     "start": 110.516,
+     "end": 110.656,
+     "conf": 0.09
+    },
+    {
+     "w": "cùng",
+     "start": 110.776,
+     "end": 110.956,
+     "conf": 0.96
+    },
+    {
+     "w": "enter",
+     "start": 111.116,
+     "end": 111.537,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 112.117,
+   "end": 113.538,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 112.117,
+     "end": 112.537,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 112.837,
+     "end": 113.038,
+     "conf": 0.02
+    },
+    {
+     "w": "enter!",
+     "start": 113.118,
+     "end": 113.538,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "section": "Chorus",
+   "text": "Agent chạy, ta thảnh thơi",
+   "start": 113.878,
+   "end": 115.499,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 113.878,
+     "end": 114.218,
+     "conf": 0.04
+    },
+    {
+     "w": "chạy",
+     "start": 114.258,
+     "end": 114.419,
+     "conf": 0.34
+    },
+    {
+     "w": "ta",
+     "start": 114.539,
+     "end": 114.679,
+     "conf": 0.84
+    },
+    {
+     "w": "thảnh",
+     "start": 114.779,
+     "end": 114.959,
+     "conf": 0.28
+    },
+    {
+     "w": "thơi",
+     "start": 115.059,
+     "end": 115.499,
+     "conf": 0.05
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 116.12,
+   "end": 117.541,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 116.12,
+     "end": 116.54,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 116.84,
+     "end": 117.04,
+     "conf": 0.01
+    },
+    {
+     "w": "enter!",
+     "start": 117.12,
+     "end": 117.541,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "section": "Chorus",
+   "text": "Từ thực tập tới giám đốc",
+   "start": 118.041,
+   "end": 119.782,
+   "words": [
+    {
+     "w": "Từ",
+     "start": 118.041,
+     "end": 118.181,
+     "conf": 0.91
+    },
+    {
+     "w": "thực",
+     "start": 118.281,
+     "end": 118.421,
+     "conf": 0.43
+    },
+    {
+     "w": "tập",
+     "start": 118.541,
+     "end": 118.681,
+     "conf": 0.11
+    },
+    {
+     "w": "tới",
+     "start": 118.782,
+     "end": 118.942,
+     "conf": 0.06
+    },
+    {
+     "w": "giám",
+     "start": 119.042,
+     "end": 119.402,
+     "conf": 0.13
+    },
+    {
+     "w": "đốc",
+     "start": 119.542,
+     "end": 119.782,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 119.922,
+   "end": 121.523,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 119.922,
+     "end": 120.303,
+     "conf": 0.01
+    },
+    {
+     "w": "enter",
+     "start": 120.803,
+     "end": 121.003,
+     "conf": 0.01
+    },
+    {
+     "w": "enter!",
+     "start": 121.063,
+     "end": 121.523,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "section": "Chorus",
+   "text": "Một phím thôi, xong cả đời",
+   "start": 121.724,
+   "end": 123.445,
+   "words": [
+    {
+     "w": "Một",
+     "start": 121.724,
+     "end": 121.884,
+     "conf": 0.23
+    },
+    {
+     "w": "phím",
+     "start": 122.004,
+     "end": 122.164,
+     "conf": 0.1
+    },
+    {
+     "w": "thôi",
+     "start": 122.244,
+     "end": 122.404,
+     "conf": 0.05
+    },
+    {
+     "w": "xong",
+     "start": 122.524,
+     "end": 122.704,
+     "conf": 0.05
+    },
+    {
+     "w": "cả",
+     "start": 122.764,
+     "end": 122.964,
+     "conf": 0.61
+    },
+    {
+     "w": "đời",
+     "start": 123.044,
+     "end": 123.445,
+     "conf": 0.61
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "section": "Outro",
+   "text": "Bạn có chắc không? Enter.",
+   "start": 125.746,
+   "end": 127.988,
+   "words": [
+    {
+     "w": "Bạn",
+     "start": 125.746,
+     "end": 125.886,
+     "conf": 1.0
+    },
+    {
+     "w": "có",
+     "start": 126.047,
+     "end": 126.227,
+     "conf": 0.96
+    },
+    {
+     "w": "chắc",
+     "start": 126.427,
+     "end": 126.587,
+     "conf": 0.63
+    },
+    {
+     "w": "không?",
+     "start": 126.807,
+     "end": 126.987,
+     "conf": 1.0
+    },
+    {
+     "w": "Enter.",
+     "start": 127.247,
+     "end": 127.988,
+     "conf": 0.05
+    }
+   ]
+  }
+ ],
+ "notes": "whole-song CTC forced alignment (wav2vec2-base-vietnamese-250h) on Demucs vocals"
+}

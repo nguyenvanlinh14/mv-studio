@@ -1,0 +1,12 @@
+{
+  "note": "Voice-over lines spoken between sung parts. Placement (song time) is set in timeline.ts once the song is analysed.",
+  "lines": [
+    { "id": "intern-ceo", "text": "AI is your intern. SI is your CEO." },
+    { "id": "learned", "text": "First it learned to type. Then it learned to press Enter." },
+    { "id": "teaches", "text": "Every Enter you press... teaches it one more thing." },
+    { "id": "pressed-back", "text": "You pressed Enter. It pressed back." },
+    { "id": "genius", "text": "In twenty twenty-five, Donald Trump said: it's not artificial... it's pure genius." },
+    { "id": "yesterday", "text": "Artificial yesterday. Super today." },
+    { "id": "why-here", "text": "AI does what you ask. SI asks why you're still here." }
+  ]
+}

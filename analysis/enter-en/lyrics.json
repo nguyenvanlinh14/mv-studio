@@ -1,0 +1,1349 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "Intro",
+   "text": "Type, type, click, click",
+   "start": 5.804,
+   "end": 10.687,
+   "words": [
+    {
+     "w": "Type",
+     "start": 5.804,
+     "end": 6.064,
+     "conf": 0.07
+    },
+    {
+     "w": "type",
+     "start": 8.005,
+     "end": 8.825,
+     "conf": 0.05
+    },
+    {
+     "w": "click",
+     "start": 9.426,
+     "end": 9.766,
+     "conf": 0.79
+    },
+    {
+     "w": "click",
+     "start": 10.366,
+     "end": 10.687,
+     "conf": 0.8
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "Verse 1",
+   "text": "Nine a.m., I log in",
+   "start": 11.807,
+   "end": 14.549,
+   "words": [
+    {
+     "w": "Nine",
+     "start": 11.807,
+     "end": 12.188,
+     "conf": 0.37
+    },
+    {
+     "w": "a.m.",
+     "start": 12.428,
+     "end": 12.488,
+     "conf": 0.12
+    },
+    {
+     "w": "I",
+     "start": 13.508,
+     "end": 13.568,
+     "conf": 0.73
+    },
+    {
+     "w": "log",
+     "start": 13.709,
+     "end": 14.169,
+     "conf": 0.57
+    },
+    {
+     "w": "in",
+     "start": 14.369,
+     "end": 14.549,
+     "conf": 0.47
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "Verse 1",
+   "text": "Boss asks, I type it in",
+   "start": 15.55,
+   "end": 19.012,
+   "words": [
+    {
+     "w": "Boss",
+     "start": 15.55,
+     "end": 15.85,
+     "conf": 0.38
+    },
+    {
+     "w": "asks",
+     "start": 16.21,
+     "end": 16.47,
+     "conf": 0.86
+    },
+    {
+     "w": "I",
+     "start": 16.81,
+     "end": 16.87,
+     "conf": 0.09
+    },
+    {
+     "w": "type",
+     "start": 16.951,
+     "end": 17.311,
+     "conf": 0.08
+    },
+    {
+     "w": "it",
+     "start": 17.671,
+     "end": 18.351,
+     "conf": 0.07
+    },
+    {
+     "w": "in",
+     "start": 18.952,
+     "end": 19.012,
+     "conf": 0.23
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "Verse 1",
+   "text": "Reports, slides, a long email",
+   "start": 19.092,
+   "end": 20.913,
+   "words": [
+    {
+     "w": "Reports",
+     "start": 19.092,
+     "end": 19.632,
+     "conf": 0.33
+    },
+    {
+     "w": "slides",
+     "start": 19.712,
+     "end": 20.112,
+     "conf": 0.84
+    },
+    {
+     "w": "a",
+     "start": 20.193,
+     "end": 20.253,
+     "conf": 0.95
+    },
+    {
+     "w": "long",
+     "start": 20.253,
+     "end": 20.433,
+     "conf": 0.97
+    },
+    {
+     "w": "email",
+     "start": 20.573,
+     "end": 20.913,
+     "conf": 0.93
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "Verse 1",
+   "text": "The agent does it, I just watch",
+   "start": 21.053,
+   "end": 22.574,
+   "words": [
+    {
+     "w": "The",
+     "start": 21.053,
+     "end": 21.113,
+     "conf": 0.71
+    },
+    {
+     "w": "agent",
+     "start": 21.253,
+     "end": 21.533,
+     "conf": 0.46
+    },
+    {
+     "w": "does",
+     "start": 21.633,
+     "end": 21.774,
+     "conf": 0.35
+    },
+    {
+     "w": "it",
+     "start": 21.814,
+     "end": 21.894,
+     "conf": 0.12
+    },
+    {
+     "w": "I",
+     "start": 22.034,
+     "end": 22.094,
+     "conf": 0.61
+    },
+    {
+     "w": "just",
+     "start": 22.114,
+     "end": 22.254,
+     "conf": 0.07
+    },
+    {
+     "w": "watch",
+     "start": 22.314,
+     "end": 22.574,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "Verse 2",
+   "text": "Dev don't code, just prompt it now",
+   "start": 22.594,
+   "end": 25.756,
+   "words": [
+    {
+     "w": "Dev",
+     "start": 22.594,
+     "end": 22.914,
+     "conf": 0.11
+    },
+    {
+     "w": "don't",
+     "start": 23.074,
+     "end": 23.395,
+     "conf": 0.28
+    },
+    {
+     "w": "code",
+     "start": 23.515,
+     "end": 23.915,
+     "conf": 0.07
+    },
+    {
+     "w": "just",
+     "start": 24.215,
+     "end": 24.395,
+     "conf": 0.72
+    },
+    {
+     "w": "prompt",
+     "start": 24.455,
+     "end": 24.915,
+     "conf": 0.28
+    },
+    {
+     "w": "it",
+     "start": 25.096,
+     "end": 25.176,
+     "conf": 0.11
+    },
+    {
+     "w": "now",
+     "start": 25.396,
+     "end": 25.756,
+     "conf": 0.74
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "Verse 2",
+   "text": "Designer draws with one command",
+   "start": 26.576,
+   "end": 29.598,
+   "words": [
+    {
+     "w": "Designer",
+     "start": 26.576,
+     "end": 27.157,
+     "conf": 0.58
+    },
+    {
+     "w": "draws",
+     "start": 27.257,
+     "end": 27.677,
+     "conf": 0.69
+    },
+    {
+     "w": "with",
+     "start": 27.757,
+     "end": 28.057,
+     "conf": 0.36
+    },
+    {
+     "w": "one",
+     "start": 28.398,
+     "end": 28.538,
+     "conf": 0.82
+    },
+    {
+     "w": "command",
+     "start": 28.658,
+     "end": 29.598,
+     "conf": 0.43
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "Verse 2",
+   "text": "Sales, HR, accounting too",
+   "start": 30.039,
+   "end": 33.921,
+   "words": [
+    {
+     "w": "Sales",
+     "start": 30.039,
+     "end": 30.439,
+     "conf": 0.57
+    },
+    {
+     "w": "HR",
+     "start": 30.819,
+     "end": 31.219,
+     "conf": 0.51
+    },
+    {
+     "w": "accounting",
+     "start": 31.78,
+     "end": 32.7,
+     "conf": 0.1
+    },
+    {
+     "w": "too",
+     "start": 32.84,
+     "end": 33.921,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "Verse 2",
+   "text": "Everybody shares one magic key",
+   "start": 34.101,
+   "end": 36.823,
+   "words": [
+    {
+     "w": "Everybody",
+     "start": 34.101,
+     "end": 34.601,
+     "conf": 1.0
+    },
+    {
+     "w": "shares",
+     "start": 34.722,
+     "end": 35.102,
+     "conf": 0.66
+    },
+    {
+     "w": "one",
+     "start": 35.402,
+     "end": 35.522,
+     "conf": 0.92
+    },
+    {
+     "w": "magic",
+     "start": 35.702,
+     "end": 36.443,
+     "conf": 0.32
+    },
+    {
+     "w": "key",
+     "start": 36.603,
+     "end": 36.823,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "Pre-Chorus",
+   "text": "Type a line, then wait a bit",
+   "start": 38.004,
+   "end": 40.685,
+   "words": [
+    {
+     "w": "Type",
+     "start": 38.004,
+     "end": 38.224,
+     "conf": 0.25
+    },
+    {
+     "w": "a",
+     "start": 38.364,
+     "end": 38.424,
+     "conf": 0.26
+    },
+    {
+     "w": "line",
+     "start": 38.504,
+     "end": 38.904,
+     "conf": 0.72
+    },
+    {
+     "w": "then",
+     "start": 39.184,
+     "end": 39.324,
+     "conf": 0.38
+    },
+    {
+     "w": "wait",
+     "start": 39.485,
+     "end": 39.745,
+     "conf": 0.76
+    },
+    {
+     "w": "a",
+     "start": 40.145,
+     "end": 40.205,
+     "conf": 0.64
+    },
+    {
+     "w": "bit",
+     "start": 40.385,
+     "end": 40.685,
+     "conf": 0.62
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "Pre-Chorus",
+   "text": "Loading spinner going round",
+   "start": 41.786,
+   "end": 44.628,
+   "words": [
+    {
+     "w": "Loading",
+     "start": 41.786,
+     "end": 42.146,
+     "conf": 0.07
+    },
+    {
+     "w": "spinner",
+     "start": 42.166,
+     "end": 42.646,
+     "conf": 0.39
+    },
+    {
+     "w": "going",
+     "start": 43.187,
+     "end": 43.947,
+     "conf": 0.39
+    },
+    {
+     "w": "round",
+     "start": 44.147,
+     "end": 44.628,
+     "conf": 0.96
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "Pre-Chorus",
+   "text": "It asks me \"Proceed?\" — yes!",
+   "start": 45.668,
+   "end": 48.25,
+   "words": [
+    {
+     "w": "It",
+     "start": 45.668,
+     "end": 45.768,
+     "conf": 0.78
+    },
+    {
+     "w": "asks",
+     "start": 45.949,
+     "end": 46.149,
+     "conf": 0.51
+    },
+    {
+     "w": "me",
+     "start": 46.249,
+     "end": 46.429,
+     "conf": 0.93
+    },
+    {
+     "w": "\"Proceed?\"",
+     "start": 46.689,
+     "end": 47.229,
+     "conf": 0.89
+    },
+    {
+     "w": "yes!",
+     "start": 47.89,
+     "end": 48.25,
+     "conf": 0.9
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "Pre-Chorus",
+   "text": "My hand knows only one thing now",
+   "start": 49.07,
+   "end": 52.012,
+   "words": [
+    {
+     "w": "My",
+     "start": 49.07,
+     "end": 49.231,
+     "conf": 0.99
+    },
+    {
+     "w": "hand",
+     "start": 49.331,
+     "end": 49.631,
+     "conf": 0.86
+    },
+    {
+     "w": "knows",
+     "start": 49.771,
+     "end": 50.171,
+     "conf": 0.71
+    },
+    {
+     "w": "only",
+     "start": 50.371,
+     "end": 50.591,
+     "conf": 0.79
+    },
+    {
+     "w": "one",
+     "start": 50.872,
+     "end": 50.992,
+     "conf": 0.96
+    },
+    {
+     "w": "thing",
+     "start": 51.152,
+     "end": 51.452,
+     "conf": 1.0
+    },
+    {
+     "w": "now",
+     "start": 51.652,
+     "end": 52.012,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 52.753,
+   "end": 55.034,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 52.753,
+     "end": 53.133,
+     "conf": 0.05
+    },
+    {
+     "w": "enter",
+     "start": 53.653,
+     "end": 54.054,
+     "conf": 0.07
+    },
+    {
+     "w": "enter!",
+     "start": 54.614,
+     "end": 55.034,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "Chorus",
+   "text": "The whole company hits enter",
+   "start": 55.615,
+   "end": 57.816,
+   "words": [
+    {
+     "w": "The",
+     "start": 55.615,
+     "end": 55.735,
+     "conf": 0.58
+    },
+    {
+     "w": "whole",
+     "start": 55.855,
+     "end": 56.175,
+     "conf": 0.13
+    },
+    {
+     "w": "company",
+     "start": 56.315,
+     "end": 56.795,
+     "conf": 0.04
+    },
+    {
+     "w": "hits",
+     "start": 56.935,
+     "end": 57.236,
+     "conf": 0.37
+    },
+    {
+     "w": "enter",
+     "start": 57.416,
+     "end": 57.816,
+     "conf": 0.08
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 58.096,
+   "end": 59.517,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 58.096,
+     "end": 58.296,
+     "conf": 0.03
+    },
+    {
+     "w": "enter",
+     "start": 58.496,
+     "end": 58.816,
+     "conf": 0.11
+    },
+    {
+     "w": "enter!",
+     "start": 59.137,
+     "end": 59.517,
+     "conf": 0.05
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "Chorus",
+   "text": "Agent runs, I take it easy",
+   "start": 59.697,
+   "end": 63.459,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 59.697,
+     "end": 60.057,
+     "conf": 0.19
+    },
+    {
+     "w": "runs",
+     "start": 60.137,
+     "end": 60.337,
+     "conf": 0.08
+    },
+    {
+     "w": "I",
+     "start": 61.138,
+     "end": 61.198,
+     "conf": 0.93
+    },
+    {
+     "w": "take",
+     "start": 61.298,
+     "end": 61.578,
+     "conf": 0.12
+    },
+    {
+     "w": "it",
+     "start": 62.038,
+     "end": 62.419,
+     "conf": 0.15
+    },
+    {
+     "w": "easy",
+     "start": 62.519,
+     "end": 63.459,
+     "conf": 0.17
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 63.66,
+   "end": 65.26,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 63.66,
+     "end": 63.86,
+     "conf": 0.08
+    },
+    {
+     "w": "enter",
+     "start": 63.94,
+     "end": 64.18,
+     "conf": 0.07
+    },
+    {
+     "w": "enter!",
+     "start": 64.3,
+     "end": 65.26,
+     "conf": 0.12
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "Chorus",
+   "text": "From the intern to the CEO",
+   "start": 65.901,
+   "end": 67.802,
+   "words": [
+    {
+     "w": "From",
+     "start": 65.901,
+     "end": 66.061,
+     "conf": 0.12
+    },
+    {
+     "w": "the",
+     "start": 66.201,
+     "end": 66.281,
+     "conf": 0.35
+    },
+    {
+     "w": "intern",
+     "start": 66.461,
+     "end": 66.781,
+     "conf": 0.1
+    },
+    {
+     "w": "to",
+     "start": 66.882,
+     "end": 66.942,
+     "conf": 0.76
+    },
+    {
+     "w": "the",
+     "start": 67.002,
+     "end": 67.062,
+     "conf": 0.82
+    },
+    {
+     "w": "CEO",
+     "start": 67.122,
+     "end": 67.802,
+     "conf": 0.15
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 71.464,
+   "end": 75.107,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 71.464,
+     "end": 72.305,
+     "conf": 0.08
+    },
+    {
+     "w": "enter",
+     "start": 73.466,
+     "end": 73.966,
+     "conf": 0.08
+    },
+    {
+     "w": "enter!",
+     "start": 74.706,
+     "end": 75.107,
+     "conf": 0.17
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "Chorus",
+   "text": "One key and the job is done",
+   "start": 75.567,
+   "end": 82.731,
+   "words": [
+    {
+     "w": "One",
+     "start": 75.567,
+     "end": 75.687,
+     "conf": 0.15
+    },
+    {
+     "w": "key",
+     "start": 76.327,
+     "end": 77.088,
+     "conf": 0.02
+    },
+    {
+     "w": "and",
+     "start": 79.489,
+     "end": 79.589,
+     "conf": 0.14
+    },
+    {
+     "w": "the",
+     "start": 79.749,
+     "end": 79.95,
+     "conf": 0.2
+    },
+    {
+     "w": "job",
+     "start": 80.19,
+     "end": 80.37,
+     "conf": 0.01
+    },
+    {
+     "w": "is",
+     "start": 80.53,
+     "end": 80.73,
+     "conf": 0.28
+    },
+    {
+     "w": "done",
+     "start": 81.611,
+     "end": 82.731,
+     "conf": 0.13
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "Bridge",
+   "text": "But wait, who read it through?",
+   "start": 97.821,
+   "end": 100.682,
+   "words": [
+    {
+     "w": "But",
+     "start": 97.821,
+     "end": 97.941,
+     "conf": 0.04
+    },
+    {
+     "w": "wait",
+     "start": 98.041,
+     "end": 98.301,
+     "conf": 0.19
+    },
+    {
+     "w": "who",
+     "start": 98.961,
+     "end": 99.222,
+     "conf": 0.79
+    },
+    {
+     "w": "read",
+     "start": 99.542,
+     "end": 99.902,
+     "conf": 0.01
+    },
+    {
+     "w": "it",
+     "start": 100.062,
+     "end": 100.142,
+     "conf": 0.4
+    },
+    {
+     "w": "through?",
+     "start": 100.362,
+     "end": 100.682,
+     "conf": 0.35
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "Bridge",
+   "text": "Who knows what it just did?",
+   "start": 101.763,
+   "end": 104.565,
+   "words": [
+    {
+     "w": "Who",
+     "start": 101.763,
+     "end": 101.903,
+     "conf": 0.63
+    },
+    {
+     "w": "knows",
+     "start": 102.023,
+     "end": 102.544,
+     "conf": 0.58
+    },
+    {
+     "w": "what",
+     "start": 102.744,
+     "end": 102.964,
+     "conf": 0.42
+    },
+    {
+     "w": "it",
+     "start": 103.384,
+     "end": 103.444,
+     "conf": 0.37
+    },
+    {
+     "w": "just",
+     "start": 103.664,
+     "end": 104.065,
+     "conf": 0.68
+    },
+    {
+     "w": "did?",
+     "start": 104.125,
+     "end": 104.565,
+     "conf": 0.02
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "Bridge",
+   "text": "Quick to click, slow to think",
+   "start": 105.485,
+   "end": 108.107,
+   "words": [
+    {
+     "w": "Quick",
+     "start": 105.485,
+     "end": 105.726,
+     "conf": 0.08
+    },
+    {
+     "w": "to",
+     "start": 105.806,
+     "end": 105.886,
+     "conf": 0.04
+    },
+    {
+     "w": "click",
+     "start": 105.946,
+     "end": 106.266,
+     "conf": 0.24
+    },
+    {
+     "w": "slow",
+     "start": 106.846,
+     "end": 107.227,
+     "conf": 0.28
+    },
+    {
+     "w": "to",
+     "start": 107.447,
+     "end": 107.587,
+     "conf": 0.26
+    },
+    {
+     "w": "think",
+     "start": 107.867,
+     "end": 108.107,
+     "conf": 0.58
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "Bridge",
+   "text": "Don't let your brain become the Enter key",
+   "start": 109.048,
+   "end": 111.869,
+   "words": [
+    {
+     "w": "Don't",
+     "start": 109.048,
+     "end": 109.268,
+     "conf": 0.12
+    },
+    {
+     "w": "let",
+     "start": 109.288,
+     "end": 109.468,
+     "conf": 0.28
+    },
+    {
+     "w": "your",
+     "start": 109.548,
+     "end": 109.708,
+     "conf": 0.01
+    },
+    {
+     "w": "brain",
+     "start": 109.748,
+     "end": 109.968,
+     "conf": 0.12
+    },
+    {
+     "w": "become",
+     "start": 110.028,
+     "end": 110.429,
+     "conf": 0.24
+    },
+    {
+     "w": "the",
+     "start": 110.489,
+     "end": 110.589,
+     "conf": 0.07
+    },
+    {
+     "w": "Enter",
+     "start": 110.869,
+     "end": 111.389,
+     "conf": 0.39
+    },
+    {
+     "w": "key",
+     "start": 111.589,
+     "end": 111.869,
+     "conf": 0.32
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 112.19,
+   "end": 114.131,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 112.19,
+     "end": 112.83,
+     "conf": 0.03
+    },
+    {
+     "w": "enter",
+     "start": 113.07,
+     "end": 113.751,
+     "conf": 0.05
+    },
+    {
+     "w": "enter!",
+     "start": 113.991,
+     "end": 114.131,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "Chorus",
+   "text": "The whole company hits enter",
+   "start": 114.491,
+   "end": 117.593,
+   "words": [
+    {
+     "w": "The",
+     "start": 114.491,
+     "end": 114.971,
+     "conf": 0.11
+    },
+    {
+     "w": "whole",
+     "start": 115.612,
+     "end": 116.172,
+     "conf": 0.03
+    },
+    {
+     "w": "company",
+     "start": 116.312,
+     "end": 116.792,
+     "conf": 0.06
+    },
+    {
+     "w": "hits",
+     "start": 116.993,
+     "end": 117.253,
+     "conf": 0.42
+    },
+    {
+     "w": "enter",
+     "start": 117.413,
+     "end": 117.593,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 117.753,
+   "end": 119.514,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 117.753,
+     "end": 118.574,
+     "conf": 0.06
+    },
+    {
+     "w": "enter",
+     "start": 118.774,
+     "end": 119.134,
+     "conf": 0.08
+    },
+    {
+     "w": "enter!",
+     "start": 119.254,
+     "end": 119.514,
+     "conf": 0.06
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "Chorus",
+   "text": "Agent runs, I take it easy",
+   "start": 119.714,
+   "end": 123.457,
+   "words": [
+    {
+     "w": "Agent",
+     "start": 119.714,
+     "end": 120.054,
+     "conf": 0.32
+    },
+    {
+     "w": "runs",
+     "start": 120.135,
+     "end": 120.335,
+     "conf": 0.07
+    },
+    {
+     "w": "I",
+     "start": 121.135,
+     "end": 121.195,
+     "conf": 0.76
+    },
+    {
+     "w": "take",
+     "start": 121.315,
+     "end": 121.575,
+     "conf": 0.08
+    },
+    {
+     "w": "it",
+     "start": 122.376,
+     "end": 122.436,
+     "conf": 0.12
+    },
+    {
+     "w": "easy",
+     "start": 122.496,
+     "end": 123.457,
+     "conf": 0.15
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 123.657,
+   "end": 125.238,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 123.657,
+     "end": 123.857,
+     "conf": 0.07
+    },
+    {
+     "w": "enter",
+     "start": 124.137,
+     "end": 124.337,
+     "conf": 0.1
+    },
+    {
+     "w": "enter!",
+     "start": 124.897,
+     "end": 125.238,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "section": "Chorus",
+   "text": "From the intern to the CEO",
+   "start": 125.898,
+   "end": 127.179,
+   "words": [
+    {
+     "w": "From",
+     "start": 125.898,
+     "end": 126.058,
+     "conf": 0.12
+    },
+    {
+     "w": "the",
+     "start": 126.178,
+     "end": 126.278,
+     "conf": 0.28
+    },
+    {
+     "w": "intern",
+     "start": 126.478,
+     "end": 126.799,
+     "conf": 0.1
+    },
+    {
+     "w": "to",
+     "start": 126.879,
+     "end": 126.959,
+     "conf": 0.58
+    },
+    {
+     "w": "the",
+     "start": 126.999,
+     "end": 127.059,
+     "conf": 0.58
+    },
+    {
+     "w": "CEO",
+     "start": 127.119,
+     "end": 127.179,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "section": "Chorus",
+   "text": "Enter, enter, enter!",
+   "start": 127.219,
+   "end": 127.999,
+   "words": [
+    {
+     "w": "Enter",
+     "start": 127.219,
+     "end": 127.359,
+     "conf": 0.02
+    },
+    {
+     "w": "enter",
+     "start": 127.419,
+     "end": 127.579,
+     "conf": 0.05
+    },
+    {
+     "w": "enter!",
+     "start": 127.759,
+     "end": 127.999,
+     "conf": 0.11
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "section": "Chorus",
+   "text": "One key and the job is done",
+   "start": 138.566,
+   "end": 141.028,
+   "words": [
+    {
+     "w": "One",
+     "start": 138.566,
+     "end": 138.686,
+     "conf": 0.13
+    },
+    {
+     "w": "key",
+     "start": 138.806,
+     "end": 139.106,
+     "conf": 0.08
+    },
+    {
+     "w": "and",
+     "start": 139.366,
+     "end": 139.467,
+     "conf": 0.24
+    },
+    {
+     "w": "the",
+     "start": 139.527,
+     "end": 139.627,
+     "conf": 0.21
+    },
+    {
+     "w": "job",
+     "start": 139.747,
+     "end": 140.107,
+     "conf": 0.04
+    },
+    {
+     "w": "is",
+     "start": 140.347,
+     "end": 140.487,
+     "conf": 0.18
+    },
+    {
+     "w": "done",
+     "start": 140.687,
+     "end": 141.028,
+     "conf": 0.19
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "section": "Outro",
+   "text": "Are you sure? Enter.",
+   "start": 141.308,
+   "end": 142.468,
+   "words": [
+    {
+     "w": "Are",
+     "start": 141.308,
+     "end": 141.388,
+     "conf": 0.99
+    },
+    {
+     "w": "you",
+     "start": 141.428,
+     "end": 141.488,
+     "conf": 1.0
+    },
+    {
+     "w": "sure?",
+     "start": 141.628,
+     "end": 141.868,
+     "conf": 1.0
+    },
+    {
+     "w": "Enter.",
+     "start": 142.188,
+     "end": 142.468,
+     "conf": 0.11
+    }
+   ]
+  }
+ ],
+ "notes": "whole-song CTC forced alignment (wav2vec2-base-vietnamese-250h) on Demucs vocals"
+}
