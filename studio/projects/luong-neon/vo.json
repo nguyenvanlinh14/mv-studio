@@ -1,0 +1,7 @@
+{
+  "note": "Voice-over in the SI break (after \"giờ là Ess-Eye\"); processed into the SI voice by the ffmpeg chain in vo-sources.md.",
+  "lines": [
+    { "id": "money", "text": "Show me the money.", "voice": "Charon" },
+    { "id": "money-2", "text": "Show... me... the money!", "voice": "Fenrir" }
+  ]
+}

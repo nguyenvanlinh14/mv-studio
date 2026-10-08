@@ -1,0 +1,28 @@
+{
+  "song": "song.mp3",
+  "stems": "~/music-video-pilot/analysis/work/luong/stems/htdemucs/song/no_vocals.wav",
+  "out": "song-edit.wav",
+  "cut": 30.091,
+  "gap_beats": 12,
+  "bed": {
+    "lowpass": 0,
+    "gain_db": -2,
+    "duck_in": 0.35,
+    "swell": [
+      4.1,
+      5.6
+    ]
+  },
+  "vo": [
+    {
+      "clip": "vo/typing.wav",
+      "at": 0.5,
+      "gain_db": -4
+    },
+    {
+      "clip": "vo/money-si.wav",
+      "at": 2.3,
+      "gain_db": 3
+    }
+  ]
+}

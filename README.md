@@ -7,6 +7,11 @@ of song time, so the live preview and the final 1080p60 export are identical.
 First video: **"Enter! Enter! Enter!"** — an office where everyone, from the intern to the CEO, only presses Enter,
 while a neon AI turns into SI. (`studio/projects/enter-en`)
 
+Second video: **"Tinh tinh tính lương về"** (Vietnamese) — neon notes roll out of the depth on the beat and climb up to
+draw one picture per section (clock, laptop, AI → SI chip, a stock chart that goes vertical on "SUPER LƯƠNG", coins…),
+with neon traffic, skyline, beams and data rain behind, and a "show me the money" cheat break where the music ducks under
+the SI voice. (`studio/projects/luong-neon`, kits `studio/src/kit/neondraw.ts` + `neonenv.ts`)
+
 ## What's inside
 
 | Part | What it does |

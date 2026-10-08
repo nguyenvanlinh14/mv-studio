@@ -11,3 +11,6 @@ out/
 studio/projects/*/song-edit.wav
 studio/projects/*/audio.edit.json
 studio/projects/*/lyrics.edit.json
+# luong-neon renders from its edited song: keep the mp3 + shifted analysis so a clone can render it
+!studio/projects/luong-neon/audio.edit.json
+!studio/projects/luong-neon/lyrics.edit.json

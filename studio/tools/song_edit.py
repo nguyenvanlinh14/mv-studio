@@ -6,7 +6,7 @@ clips, and shift the analysis (audio.json / lyrics.json) so every time after the
 edit.json:
   { "song": "song.mp3", "stems": "<path to Demucs no_vocals.wav>", "out": "song-edit.wav",
     "cut": 52.368, "gap_beats": 20,
-    "bed": { "lowpass": 450, "gain_db": -15 },
+    "bed": { "lowpass": 450, "gain_db": -15, "duck_in": 0.3, "swell": [4.2, 5.7] },   # lowpass 0 = none
     "vo": [ { "clip": "vo/learned.wav", "at": 0.3, "gain_db": 0 },
             { "clip": "vo/trump-genius.wav", "at": 5.0, "gain_db": 4, "echo": true } ],
     "duck": [ ... optional VO over the song itself: { "clip", "time" (song time, before the edit), "gain_db", "duck_db" } ] }
@@ -62,10 +62,26 @@ for d in cfg.get("duck", []):
 # --- the break: a filtered loop of the instrumental right before the cut, voice-over on top
 stems = load(Path(cfg["stems"]).expanduser()) if cfg.get("stems") else song
 bed_src = stems[max(0, ci - gn):ci]
-bed = ffilter(bed_src, f"lowpass=f={cfg['bed'].get('lowpass', 450)},volume={cfg['bed'].get('gain_db', -15)}dB")[:gn]
+bc = cfg["bed"]
+if bc.get("lowpass", 450):
+    bed = ffilter(bed_src, f"lowpass=f={bc.get('lowpass', 450)}")[:gn]
+else:
+    bed = bed_src[:gn].copy()
 bed = np.pad(bed, ((0, gn - len(bed)), (0, 0)))
-fade = int(0.08 * SR)
-bed[:fade] *= np.linspace(0, 1, fade)[:, None]
+# level envelope in dB: duck from full level to gain_db over duck_in s, hold, then swell back to 0 dB over "swell": [t0, t1]
+g = bc.get("gain_db", -15)
+tt = np.arange(gn) / SR
+env_db = np.full(gn, float(g))
+di = bc.get("duck_in", 0)
+if di > 0:
+    env_db = np.where(tt < di, g * (tt / di), env_db)
+if "swell" in bc:
+    s0, s1 = bc["swell"]
+    env_db = np.where(tt >= s0, g + (0 - g) * np.clip((tt - s0) / (s1 - s0), 0, 1) ** 0.7, env_db)
+bed *= (10 ** (env_db / 20))[:, None]
+if di <= 0:
+    fade = int(0.08 * SR)
+    bed[:fade] *= np.linspace(0, 1, fade)[:, None]
 for v in cfg["vo"]:
     clip = load(P / v["clip"])
     if v.get("echo"):
