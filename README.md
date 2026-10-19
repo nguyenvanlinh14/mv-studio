@@ -12,6 +12,12 @@ draw one picture per section (clock, laptop, AI → SI chip, a stock chart that 
 with neon traffic, skyline, beams and data rain behind, and a "show me the money" cheat break where the music ducks under
 the SI voice. (`studio/projects/luong-neon`, kits `studio/src/kit/neondraw.ts` + `neonenv.ts`)
 
+Third video: **"Chăn bò ngày nắng"** (Vietnamese indie folk) — a cold open where an AI lab pulses to the music and
+punch lines slam in on the downbeats, then the tech dream (graduation, a glass campus, night coding, meetings, the AI
+years) against a golden-hour Vietnamese village: banyan tree and đình, lotus pond, bamboo, rice fields and grazing
+yellow cows. Lyrics run as karaoke with a cowbell hopping word to word, timed from the sung vocals.
+(`studio/projects/chanbo`, scenes in `studio/projects/chanbo-lookdev`, kits `cowmodel.ts` + `lyricstyles.ts`)
+
 ## What's inside
 
 | Part | What it does |
@@ -79,4 +85,5 @@ render a project without a key; without a key the tool just skips.
 - Code: MIT (`LICENSE`).
 - Fonts: [Archivo](https://fonts.google.com/specimen/Archivo) and [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono), SIL Open Font License (`studio/public/fonts/OFL-*.txt`).
 - Libraries: three.js, Vite, playwright-core, librosa, Demucs, Hugging Face transformers (wav2vec2), mlx-whisper.
+- 3D cow: "Farm Animals" pack by [Quaternius](https://quaternius.com), CC0 (`studio/public/models/cow/`).
 - Songs in `music/` and `studio/projects/*/song.mp3` were AI-generated from the author's own lyrics.
