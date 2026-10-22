@@ -8,7 +8,9 @@ import { DEFAULT_POST, PostFX, type PostSettings } from './post';
 import { Mixer } from './transition';
 import type { Cue, FrameInfo, Plate, PlateContext, Project } from './plate';
 
-export const W = 1920, H = 1080;
+/** frame size: 1920×1080 by default, or ?size=1080x1920 for a vertical (9:16) render */
+const SIZE = /^(\d+)x(\d+)$/.exec(new URLSearchParams(globalThis.location?.search ?? '').get('size') ?? '');
+export const W = SIZE ? +SIZE[1]! : 1920, H = SIZE ? +SIZE[2]! : 1080;
 
 const projects = import.meta.glob<{ default: Project }>('/projects/*/timeline.ts');
 

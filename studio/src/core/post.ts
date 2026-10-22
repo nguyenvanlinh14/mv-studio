@@ -158,7 +158,7 @@ export class PostFX {
 
   /** color/depth: the accumulated HDR frame; cam: for the depth → distance conversion; out: null = canvas. */
   render(r: THREE.WebGLRenderer, color: THREE.Texture, depth: THREE.DepthTexture, cam: THREE.PerspectiveCamera, p: PostSettings, overlay: THREE.Texture | null, frame: number, out: THREE.WebGLRenderTarget | null) {
-    const s = this.height / 1080;
+    const s = Math.min(this.width, this.height) / 1080;
     const c = this.coc.u;
     c.color!.value = color; c.depth!.value = depth; c.near!.value = cam.near; c.far!.value = cam.far; c.focus!.value = p.focus; c.aperture!.value = p.aperture * s;
     this.coc.run(r, this.cocRT);
