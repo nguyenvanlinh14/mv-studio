@@ -12,7 +12,7 @@ const mode = argv[0] ?? 'stills';
 const opt = (k: string, d?: string) => { const i = argv.indexOf(`--${k}`); return i >= 0 ? argv[i + 1] : d; };
 const ROOT = path.resolve(import.meta.dir, '..');
 const project = opt('project', 'lookdev')!;
-const W = 1920, H = 1080;
+const [W, H] = (opt('size', '1920x1080')!).split('x').map(Number) as [number, number]; // --size 1080x1920 for vertical
 const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 
 async function server(): Promise<{ url: string; stop: () => void }> {
@@ -29,7 +29,7 @@ async function page(base: string) {
   const browser = await chromium.launch({ executablePath: CHROME, headless: true, args: ['--use-angle=metal', '--enable-gpu', '--ignore-gpu-blocklist', '--enable-unsafe-swiftshader=false'] });
   const pg = await browser.newPage({ viewport: { width: W, height: H } });
   pg.on('console', (m) => { if (m.type() === 'error') console.error('[page]', m.text()); });
-  await pg.goto(`${base}/?project=${project}&export=1`);
+  await pg.goto(`${base}/?project=${project}&export=1&size=${W}x${H}`);
   await pg.waitForFunction(() => (window as any).studio?.ready || (window as any).studio?.error, null, { timeout: 120000 });
   const err = await pg.evaluate(() => (window as any).studio.error);
   if (err) throw new Error(err);

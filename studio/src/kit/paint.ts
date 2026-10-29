@@ -170,3 +170,130 @@ export function paint(ref: HTMLCanvasElement, o: PaintOpts = {}): HTMLCanvasElem
   c.fillStyle = vg; c.fillRect(0, 0, W, H);
   return out;
 }
+
+/**
+ * The same painter, stroke by stroke, for animation: candidates are visited in a snake sweep (row by row, like a
+ * painter's hand) coarse layer to fine; `advanceTo(n)` paints until n strokes have actually been laid down, keeping
+ * the canvas between calls. Pass `onto` to keep painting over an existing picture (every layer then only repaints
+ * where the canvas differs from the new reference). `compose()` adds canvas weave, varnish and vignette.
+ */
+export class OilPainter {
+  canvas = document.createElement('canvas');
+  c: CanvasRenderingContext2D;
+  painted = 0;
+  /** strokes laid per layer (coarse → fine) */
+  layerPainted: number[] = [];
+  /** recent stroke ends (for a brush cursor): x, y, colour */
+  recent: { x: number; y: number; col: [number, number, number]; r: number }[] = [];
+  private layers: { r: number; R: Uint8ClampedArray; pts: [number, number][] }[] = [];
+  private li = 0; private idx = 0; private cur: Uint8ClampedArray | null = null;
+  private dirAt: (x: number, y: number) => number;
+  private o: PaintOpts & { refine?: boolean };
+  constructor(ref: HTMLCanvasElement, o: PaintOpts = {}, onto?: HTMLCanvasElement) {
+    this.o = { ...o, refine: !!onto };
+    this.canvas.width = W; this.canvas.height = H;
+    this.c = this.canvas.getContext('2d', { willReadFrequently: true })!;
+    if (onto) this.c.drawImage(onto, 0, 0); else { this.c.fillStyle = o.ground ?? '#7a4e2e'; this.c.fillRect(0, 0, W, H); }
+    const rnd = mulberry(o.seed ?? 1), noise = makeNoise((o.seed ?? 1) + 7);
+    // orientation field (as in paint())
+    const q = 4, gw = W / q, gh = H / q;
+    const small = document.createElement('canvas'); small.width = gw; small.height = gh;
+    const sx = small.getContext('2d', { willReadFrequently: true })!; sx.filter = 'blur(2px)'; sx.drawImage(ref, 0, 0, gw, gh);
+    const sd = sx.getImageData(0, 0, gw, gh).data, L = new Float32Array(gw * gh);
+    for (let i = 0; i < gw * gh; i++) L[i] = 0.3 * sd[i * 4]! + 0.59 * sd[i * 4 + 1]! + 0.11 * sd[i * 4 + 2]!;
+    const ang = new Float32Array(gw * gh), mag = new Float32Array(gw * gh);
+    for (let y = 1; y < gh - 1; y++) for (let x = 1; x < gw - 1; x++) {
+      const l = (dx: number, dy: number) => L[(y + dy) * gw + x + dx]!;
+      const gx = l(1, -1) + 2 * l(1, 0) + l(1, 1) - l(-1, -1) - 2 * l(-1, 0) - l(-1, 1);
+      const gy = l(-1, 1) + 2 * l(0, 1) + l(1, 1) - l(-1, -1) - 2 * l(0, -1) - l(1, -1);
+      ang[y * gw + x] = Math.atan2(gy, gx) + Math.PI / 2; mag[y * gw + x] = Math.hypot(gx, gy);
+    }
+    this.dirAt = (x, y) => {
+      const f = o.flow?.(x, y); if (f !== null && f !== undefined) return f;
+      const i = Math.min(gh - 1, Math.max(0, (y / q) | 0)) * gw + Math.min(gw - 1, Math.max(0, (x / q) | 0));
+      const free = noise(x * 0.004, y * 0.004) * 2.2 + 0.4, k = Math.min(1, mag[i]! / 60);
+      const ax = Math.cos(2 * ang[i]!) * k + Math.cos(2 * free) * (1 - k), ay = Math.sin(2 * ang[i]!) * k + Math.sin(2 * free) * (1 - k);
+      return Math.atan2(ay, ax) / 2;
+    };
+    for (const r of o.brushes ?? [40, 20, 10, 5, 2.6]) {
+      const sp = r * 0.85, rows: [number, number][][] = [];
+      for (let y = -sp, row = 0; y < H + sp; y += sp, row++) { const line: [number, number][] = []; for (let x = -sp; x < W + sp; x += sp) line.push([x + (rnd() - 0.5) * sp, y + (rnd() - 0.5) * sp]); if (row % 2) line.reverse(); rows.push(line); }
+      this.layers.push({ r, R: blurred(ref, r * 0.5), pts: rows.flat() });
+    }
+  }
+  get finished() { return this.li >= this.layers.length; }
+  /** paint until `n` strokes have been laid down (or the picture is finished) */
+  advanceTo(n: number) {
+    const c = this.c, o = this.o, th = o.threshold ?? 60, jit = o.jitter ?? 0.5, lenK = o.length ?? 1.4;
+    const px = (d: Uint8ClampedArray, x: number, y: number) => { const i = ((Math.min(H - 1, Math.max(0, y | 0)) * W) + Math.min(W - 1, Math.max(0, x | 0))) * 4; return [d[i]!, d[i + 1]!, d[i + 2]!] as const; };
+    c.lineCap = 'round'; c.lineJoin = 'round';
+    while (this.painted < n && !this.finished) {
+      const layer = this.layers[this.li]!, { r, R } = layer;
+      if (this.idx === 0) this.cur = this.li || o.refine ? c.getImageData(0, 0, W, H).data : null;
+      if (this.idx >= layer.pts.length) { this.li++; this.idx = 0; continue; }
+      const idx = this.idx++, [x0, y0] = layer.pts[idx]!, sr = mulberry((o.seed ?? 1) * 7919 + this.li * 1000003 + idx * 97);
+      const col = art(px(R, x0, y0));
+      if (this.cur) {
+        let e = 0; for (const [dx, dy] of [[0, 0], [-r / 2, 0], [r / 2, 0], [0, -r / 2], [0, r / 2]] as const) { const a = px(this.cur, x0 + dx, y0 + dy), b = px(R, x0 + dx, y0 + dy); e += Math.abs(a[0] - b[0]) + Math.abs(a[1] - b[1]) + Math.abs(a[2] - b[2]); }
+        if (e / 5 < th * (0.6 + 0.8 * sr())) continue;
+      }
+      const path: [number, number][] = [[x0, y0]];
+      let x = x0, y = y0, pa = this.dirAt(x0, y0) + (sr() < 0.5 ? 0 : Math.PI);
+      const maxN = Math.round((2 + sr() * 4) * lenK * (r > 10 ? 1 : 1.3));
+      for (let s = 0; s < maxN; s++) {
+        let a = this.dirAt(x, y); if (Math.cos(a - pa) < 0) a += Math.PI;
+        x += Math.cos(a) * r * 0.7; y += Math.sin(a) * r * 0.7; pa = a;
+        const k = px(R, x, y); if (s > 0 && Math.abs(k[0] - col[0]) + Math.abs(k[1] - col[1]) + Math.abs(k[2] - col[2]) > 64) break;
+        path.push([x, y]);
+      }
+      if (path.length < 2) path.push([x0 + Math.cos(pa) * r * 0.6, y0 + Math.sin(pa) * r * 0.6]);
+      const nb = Math.max(3, Math.min(12, Math.round(r / 1.6))), bw = (r * 1.7) / nb, lum = (col[0] + col[1] + col[2]) / 3;
+      const tone = (sr() - 0.5) * 26 * jit, warm = (sr() - 0.5) * 18 * jit;
+      for (let b = 0; b < nb; b++) {
+        const off = (b / (nb - 1) - 0.5) * r * 1.5 * (0.85 + 0.3 * sr()), bt = tone + (sr() - 0.5) * 22 * jit;
+        c.strokeStyle = `rgba(${(col[0] + bt + warm) | 0},${(col[1] + bt) | 0},${(col[2] + bt - warm) | 0},${0.72 + 0.28 * sr()})`;
+        c.lineWidth = bw * (0.9 + 0.9 * sr());
+        const cut = Math.max(2, path.length - (sr() < 0.35 ? 1 : 0));
+        c.beginPath();
+        for (let k = 0; k < cut; k++) {
+          const [ax, ay] = path[k]!, [bx2, by2] = path[Math.min(path.length - 1, k + 1)]!, [cx, cy] = path[Math.max(0, k - 1)]!;
+          const tx = bx2 - cx, ty = by2 - cy, tl = Math.hypot(tx, ty) || 1, taper = k === 0 || k === cut - 1 ? 0.75 : 1;
+          const X = ax - (ty / tl) * off * taper, Y = ay + (tx / tl) * off * taper; k ? c.lineTo(X, Y) : c.moveTo(X, Y);
+        }
+        c.stroke();
+      }
+      if (r > 2) {
+        const ridge = (side: number, style: string, w: number) => {
+          c.strokeStyle = style; c.lineWidth = w; c.beginPath();
+          path.forEach(([ax, ay], k) => {
+            const [bx2, by2] = path[Math.min(path.length - 1, k + 1)]!, [cx, cy] = path[Math.max(0, k - 1)]!;
+            const tx = bx2 - cx, ty = by2 - cy, tl = Math.hypot(tx, ty) || 1; let nx = -ty / tl, ny = tx / tl; if (nx + ny > 0) { nx = -nx; ny = -ny; }
+            const X = ax + nx * r * 0.62 * side, Y = ay + ny * r * 0.62 * side; k ? c.lineTo(X, Y) : c.moveTo(X, Y);
+          });
+          c.stroke();
+        };
+        const hi = Math.min(255, lum + 70);
+        ridge(1, `rgba(${hi},${hi},${Math.max(0, hi - 12)},${0.16 + 0.1 * sr()})`, Math.max(1, r * 0.16));
+        ridge(-1, `rgba(20,12,6,${0.14 + 0.08 * sr()})`, Math.max(1, r * 0.2));
+      }
+      this.layerPainted[this.li] = (this.layerPainted[this.li] ?? 0) + 1;
+      const end = path[path.length - 1]!;
+      this.recent.push({ x: end[0], y: end[1], col, r }); if (this.recent.length > 24) this.recent.shift();
+      this.painted++;
+    }
+  }
+  /** the painting with canvas weave, varnish and vignette, drawn onto c */
+  compose(dst: CanvasRenderingContext2D) {
+    if (!weaveCanvas) {
+      const weave = this.c.createImageData(W, H), wd = weave.data, wr = mulberry(99);
+      for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) { const i = (y * W + x) * 4, v = 128 + 26 * Math.sin(x * 1.9) * Math.sin(y * 0.35) + 26 * Math.sin(y * 1.9) * Math.sin(x * 0.35) + (wr() - 0.5) * 30; wd[i] = wd[i + 1] = wd[i + 2] = v; wd[i + 3] = 255; }
+      weaveCanvas = document.createElement('canvas'); weaveCanvas.width = W; weaveCanvas.height = H; weaveCanvas.getContext('2d')!.putImageData(weave, 0, 0);
+    }
+    dst.drawImage(this.canvas, 0, 0);
+    dst.globalCompositeOperation = 'overlay'; dst.globalAlpha = 0.16; dst.drawImage(weaveCanvas, 0, 0);
+    dst.globalCompositeOperation = 'soft-light'; dst.globalAlpha = 0.25; dst.fillStyle = '#c89a5a'; dst.fillRect(0, 0, W, H);
+    dst.globalCompositeOperation = 'source-over'; dst.globalAlpha = 1;
+    const vg = dst.createRadialGradient(W / 2, H / 2, H * 0.35, W / 2, H / 2, H * 1.05); vg.addColorStop(0, 'rgba(0,0,0,0)'); vg.addColorStop(1, 'rgba(25,14,6,0.45)');
+    dst.fillStyle = vg; dst.fillRect(0, 0, W, H);
+  }
+}

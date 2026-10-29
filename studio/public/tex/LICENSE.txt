@@ -1,0 +1,5 @@
+Textures used by projects/banyan.
+- *_diff/nor_gl/rough_1k.jpg: Poly Haven (https://polyhaven.com), CC0 — bark_willow, mud_forest,
+  worn_mossy_plasterwall, clay_roof_tiles_02, mossy_rock.
+- moon_lroc_color_1k.jpg: NASA Scientific Visualization Studio, CGI Moon Kit (LRO / LROC colour map),
+  https://svs.gsfc.nasa.gov/4720 — NASA imagery, public domain.
