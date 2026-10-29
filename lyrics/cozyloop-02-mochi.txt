@@ -1,0 +1,21 @@
+# COZY LOOP #2 - "Mochi's Rainy Attic" (autumn, cozy; introduces Mochi as the channel's recurring cat)
+# Lead instrument: warm nylon-string guitar (bossa nova / lo-fi), not piano, not sax.
+# Visual: ONE 16:9 1080p Gemini/AGY clip (Short = centre crop / zoomed-out layout, Long = native).
+# Upload music/mochi/mochi-ref-sheet.png + mochi-ref-face.png as character references.
+
+## Music - Track A "Mochi's Rainy Attic" (Short + long)
+instrumental only, no vocals, cozy bossa nova lo-fi, 78 bpm, A major with soft minor 7th colour, a warm fingerpicked nylon-string classical guitar playing one memorable gentle 6-note melody that returns again and again, soft Rhodes chords, round upright bass, light brushed shaker and rim clicks with a lazy bossa groove, soft rain on a roof and a faint purring texture in the background, a gentle flute answers the guitar in the middle swell then the guitar returns alone, warm vinyl crackle, sleepy, tender, comforting, playful but calm, long warm reverb, no fade-out, ends on the same chord it starts on so it loops seamlessly, about 1 minute 30 seconds
+
+## Music - Track B "Purr and Paper" (long only)
+instrumental only, no vocals, cozy bossa nova lo-fi, 78 bpm, A major, nylon guitar and a soft kalimba trading phrases, warm Rhodes, upright bass, light brushes, soft rain, playful and calm, gentle swell in the middle, no fade-out, loop-friendly, ends on the tonic chord, about 2 minutes
+
+## Music - Track C "Nap Under the Skylight" (long only)
+instrumental only, no vocals, slow lo-fi lullaby, 70 bpm, A major, very soft solo nylon guitar with harmonics, a warm cello drone underneath, almost no percussion, soft rain fading, sleepy and peaceful, the calmest track of the set, no fade-out, loop-friendly, ends on the tonic chord, about 2 minutes
+
+## Video - ONE prompt, 16:9 (attach the two Mochi reference images)
+Photorealistic 10-second seamless loop, horizontal 16:9 widescreen, 1080p. Center-weighted composition: all key objects are grouped in the central third of the frame. A cozy wooden attic room on a rainy autumn evening. In the center, the same chubby orange tabby cat from the reference images (white heart-shaped patch on the chest, small red knitted scarf) is curled up asleep on a thick knitted blanket on a window seat, its round belly slowly rising and falling as it breathes, one ear twitching softly now and then. Beside the cat: a stack of old books, a steaming mug of tea and a small warm reading lamp. Behind, a slanted skylight window with rain streaming down the glass and autumn orange leaves stuck on it, soft grey-blue evening light outside. A nylon-string classical guitar leans against the wall on the right. The left and right edges are soft dark wooden beams, simple and uncluttered. Locked-off static camera, no camera movement, no people. Only gentle continuous motion: the cat breathing, rain on the skylight, rising steam, the lamp's faint glow. Upper part of the frame is the rainy skylight, clean for text overlay. Cinematic 35mm film look, soft grain, shallow depth of field, warm amber inside and cool blue outside, cozy, tender, peaceful. First and last frame identical, perfect seamless loop, no cuts. Silent video: no music, no sound, no text, no subtitles, no watermark.
+
+## Next COZY LOOP ideas (one generation each)
+#3 "Snowfall Ramen Stall"   - Tokyo side street at night, steaming ramen bowl, snow; lead: muted trumpet + lo-fi
+#4 "Lantern Boat on the Lake" - Hoi An-style lanterns on dark water, gentle ripples; lead: dan bau / bamboo flute + ambient
+#5 "First Light Greenhouse"  - winter morning greenhouse, frost melting on glass, plants; lead: violin + harp (hopeful)

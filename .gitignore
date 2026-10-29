@@ -16,6 +16,8 @@ studio/projects/*/lyrics.edit.json
 !studio/projects/luong-neon/lyrics.edit.json
 # per-song media and analysis output stay local (repo = engine code + models); already-tracked songs stay tracked
 music/*.mp3
+# per-video source folders (AI clips, tracks, character reference images) stay local
+music/*/
 studio/projects/*/song.mp3
 studio/projects/*/audio.json
 studio/projects/*/lyrics.json

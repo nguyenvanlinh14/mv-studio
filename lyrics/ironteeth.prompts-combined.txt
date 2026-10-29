@@ -1,0 +1,26 @@
+# Iron Teeth - 3 multi-shot Gemini prompts (4 shots each, hard cuts) = all 12 shots in one day
+# Save as music/ironteeth/A.mp4, B.mp4, C.mp4
+
+A (intro + verse 1)
+Vertical 9:16 cinematic sequence, 10 seconds, four shots separated by hard cuts. Main character in every shot: the same large majestic pure snow-white wolf with piercing ice-blue eyes and a thick winter coat. Setting: a frozen mountain ridge at night under a huge full moon, snow-covered pines, cold blue moonlight, drifting snow.
+[00:00-00:02.5] Extreme close-up of a single sparkling snowflake drifting toward the lens; behind it the blurred silhouette of the white wolf standing on a rocky outcrop under the moon.
+[00:02.5-00:05] Hard cut. Low-angle close-up of the white wolf's face, ice-blue eyes opening slowly, frost on its whiskers, breath steaming.
+[00:05-00:07.5] Hard cut. Side-on tracking shot of the white wolf walking powerfully along the snowy ridge, paws sinking into deep snow, long shadow on the snow.
+[00:07.5-00:10] Hard cut. The white wolf beside ancient frost-covered standing stones, lifting its head alertly; slow orbit around it.
+Style: photorealistic epic nature documentary, 35mm film grain, dramatic moonlight, sharp fur detail. Keep the upper third of the frame relatively clean for text. No music, no sound, no text, no subtitles, no watermark.
+
+B (chorus "Rise the wind")
+Vertical 9:16 cinematic sequence, 10 seconds, four shots separated by hard cuts. Characters in every shot: the same wolf pack of more than ten charcoal grey, brown and white wolves, led by a large majestic pure snow-white wolf with ice-blue eyes. Setting: a vast snowy plain and valley at night, bright green aurora borealis rippling across the starry sky, cold blue moonlight.
+[00:00-00:02.5] Wide side-on tracking shot of the whole pack running at full speed, snow spraying from their paws, aurora above.
+[00:02.5-00:05] Hard cut. Static ground-level camera as the pack thunders past very close in slow motion, paws kicking up snow and ice crystals.
+[00:05-00:07.5] Hard cut. Aerial drone shot from above of the pack running in an arrowhead formation between dark pine forests, the white wolf leading.
+[00:07.5-00:10] Hard cut. The white wolf leaps onto a high rocky outcrop and stands still, chest heaving, wind blowing its fur, full moon directly behind it.
+Style: photorealistic epic nature documentary, 35mm film grain, powerful and dramatic. Keep the upper third of the frame relatively clean for text. No music, no sound, no text, no subtitles, no watermark.
+
+C (verse 2 howls + outro)
+Vertical 9:16 cinematic sequence, 10 seconds, four shots separated by hard cuts. Characters in every shot: the same wolf pack of charcoal grey, brown and white wolves, led by a large majestic pure snow-white wolf with ice-blue eyes. Setting: frozen mountains at night under a huge full moon, falling snow, cold blue moonlight, faint green aurora.
+[00:00-00:02.5] The pack walking in a long single line through a narrow snowy gorge beside a frozen waterfall; slow high-angle crane.
+[00:02.5-00:05] Hard cut. Side view of the white wolf on a rocky outcrop silhouetted against the full moon, raising its head and howling with its mouth wide open, breath steaming.
+[00:05-00:07.5] Hard cut. The whole pack standing together on a snowy ridge, all howling at the moon with mouths open, aurora glowing behind them; slow pull-back.
+[00:07.5-00:10] Hard cut. Rear view of the pack slowly walking away toward a ring of ancient standing stones, snow falling heavier, fading into the darkness.
+Style: photorealistic epic nature documentary, 35mm film grain, haunting and epic. Keep the upper third of the frame relatively clean for text. No music, no sound, no text, no subtitles, no watermark.

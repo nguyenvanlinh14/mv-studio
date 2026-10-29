@@ -1,0 +1,3 @@
+wolf.glb = "Wolf" by Quaternius (Ultimate Animated Animal Pack), from https://poly.pizza/m/P1gU3Qkr9r
+License: Public Domain (CC0 1.0) — https://creativecommons.org/publicdomain/zero/1.0/
+Animations: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow, Idle_HitReact_Left/Right, Jump_ToIdle, Walk.
