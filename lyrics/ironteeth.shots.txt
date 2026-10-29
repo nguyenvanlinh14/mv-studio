@@ -1,0 +1,42 @@
+# Iron Teeth in Frozen Earth - Gemini shot list (song 2:59.6, 120 BPM, 1 bar = 2 s)
+# Each clip 10 s, vertical 9:16, silent. I cut them to 8 s (4 bars) on downbeats.
+# Save as music/ironteeth/01.mp4 ... 12.mp4
+
+# Append to the end of EVERY prompt:
+# Same characters in every shot: the pack leader is a large majestic pure snow-white wolf with piercing ice-blue eyes and a thick winter coat; the rest of the pack are charcoal grey, brown and white wolves. Setting: a frozen mountain ridge at night under a large full moon, snow-covered pines, ancient standing stones, drifting snow, cold blue moonlight. Photorealistic, epic cinematic nature documentary look, 35mm film grain, dramatic lighting, vertical 9:16, 10 seconds. Upper third of the frame kept relatively clean for text overlay. Silent video: no music, no sound, no text, no subtitles, no watermark.
+
+## 01 intro 0:00-0:08 (hook)
+Extreme close-up of a single delicate snowflake drifting toward the lens in slow motion, sparkling in moonlight, behind it a blurred frozen ridge under a huge full moon; focus slowly pulls back to reveal the silhouette of the white wolf standing on a rocky outcrop.
+
+## 02 intro 0:08-0:16
+Low-angle close-up of the white leader wolf's face, ice-blue eyes opening slowly, frost on its whiskers, breath steaming in the cold air, snow drifting past. Very slow push-in.
+
+## 03 verse 1 "Iron teeth in frozen earth" 0:16-0:24
+Side tracking shot of the white wolf walking slowly and powerfully along a snowy ridge, paws sinking into deep snow and leaving prints, its long shadow stretching across the snow in the moonlight.
+
+## 04 verse 1 "Bone and timber... ancient blood upon the trail" 0:24-0:32
+The white wolf stops beside ancient weathered standing stones covered in frost, lowers its head to sniff an old trail in the snow, then lifts its head alertly. Slow orbit around the wolf.
+
+## 05 chorus "Rise the wind" 0:32-0:40 (also reuse 2:08-2:16)
+Wide side-on tracking shot of the whole wolf pack, more than ten wolves led by the white wolf, running fast in formation across a vast snowy plain, snow spraying from their paws, green aurora borealis rippling across the night sky above.
+
+## 06 chorus "Cold gray stone / Dust and bone" 0:40-0:48 (also reuse 2:16-2:24)
+Low ground-level camera as the pack thunders past very close, powerful legs and paws kicking up snow and ice crystals in slow motion, aurora light glinting on their fur.
+
+## 07 chorus 0:48-0:56 (also reuse 2:24-2:32)
+Aerial drone shot looking down at the wolf pack running in an arrowhead formation through a snowy valley between dark pine forests, the white leader at the front, long moon shadows.
+
+## 08 chorus end + break 0:56-1:12
+The white wolf leaps onto a high rocky outcrop and stands still, chest heaving, wind blowing its fur and snow off the rock, the full moon behind it, the pack gathering below.
+
+## 09 build + instrumental 1:12-1:52 (cut into several pieces)
+Slow cinematic shots of the frozen wilderness at night: wind sweeping snow off sharp mountain peaks, a frozen waterfall, the pack walking in a long single line through a narrow snowy gorge, moonlight through drifting snow.
+
+## 10 verse 2 "Black sky bends... Wolves call from the dark" 1:52-2:00
+The white wolf on the outcrop raises its head to the moon and howls with its mouth wide open, breath steaming, snow swirling, side view silhouetted against the full moon.
+
+## 11 verse 2 "Spirit walks through the gorge" 2:00-2:08
+The whole pack standing together on a snowy ridge, all howling at the moon at the same time, heads raised, mouths open, aurora glowing behind them. Slow pull back.
+
+## 12 outro 2:40-2:59
+The pack slowly walks away from the camera toward a ring of ancient standing stones, the white leader at the front, snow falling heavier, the moon setting behind the mountains, gradually fading into the snowy night.

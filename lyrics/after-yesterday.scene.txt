@@ -1,0 +1,16 @@
+# Main scene - rainy window
+Photorealistic 10-second seamless loop, vertical 9:16. Close-up of a rain-streaked window at dusk, a cup of coffee on the wooden windowsill with thin steam rising slowly, soft blurred city lights outside in grey-blue tones, raindrops sliding down the glass, a warm desk lamp glowing amber inside, a few dry leaves resting by the cup. Locked-off static camera on a tripod, no camera movement, no people. Gentle continuous motion only: falling rain, rising steam, faintly flickering bokeh lights. Cinematic shallow depth of field, 35mm film look, soft natural grain, moody melancholic but cozy atmosphere, cool blue outside and warm amber inside. First and last frame identical for a perfect seamless loop, no cuts, no text.
+
+# Alternative A - person by the window (for the chorus)
+Photorealistic 10-second seamless loop, vertical 9:16. A young man in an oversized knit sweater sits on the floor by a large rainy window, seen from behind in silhouette, an acoustic guitar resting beside him, head slightly bowed, breathing slowly. Rain runs down the glass, grey morning light, a warm lamp in the corner. Locked-off static camera, subtle motion only: rain, his shoulders rising and falling with slow breaths, curtain moving slightly. Cinematic, 35mm film grain, muted desaturated palette, melancholic and intimate. Identical first and last frame, seamless loop, no cuts, no text.
+
+# Alternative B - sky clearing (for the hopeful ending)
+Photorealistic 10-second seamless loop, vertical 9:16. View through a wet window of a quiet street after rain, puddles reflecting the sky, clouds slowly drifting, soft golden sunlight breaking through and touching water droplets on the glass, a few last drops falling from the window frame. Locked-off static camera, gentle continuous motion: drifting clouds, shimmering puddles, sparkling droplets. Cinematic, 35mm film look, warm hopeful tones, calm and peaceful. Identical first and last frame, seamless loop, no cuts, no text.
+
+# Timeline (music/After_Yesterday.mp3, 69.6 s, from loudness - approximate)
+# 0.0-12.7   intro, quiet guitar + rain      -> Main scene (rainy window + coffee)
+# 12.7-30    verse: lines 1-4                -> Main scene
+# 30-57      pre-chorus + chorus: lines 5-10 -> Alternative A (person by window)
+# 57-58.5    breath pause before last lift   -> hard cut / brief black
+# 58.5-65    final chorus lift               -> Alternative B (sky clearing)
+# 65-69.6    fade out                        -> Alternative B, fade to black

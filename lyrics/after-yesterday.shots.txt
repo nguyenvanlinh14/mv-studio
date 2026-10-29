@@ -1,0 +1,26 @@
+# After Yesterday - 7 shots x 10 s = 70 s (song 69.6 s). Vertical 9:16, silent.
+# Save the clips as music/after-yesterday/shot01.mp4 ... shot07.mp4
+
+# Append this block to the end of EVERY prompt:
+# Photorealistic, cinematic 35mm film look, soft natural grain, shallow depth of field, vertical 9:16, 10 seconds. Same character in every shot: a young Asian man in his mid-20s, short messy black hair, oversized cream knit sweater, dark trousers. Same location: a small cozy apartment with a large window, wooden floor, a warm amber lamp. Upper third of the frame kept soft and uncluttered for text overlay. Silent video: no music, no sound effects, no dialogue, no text, no subtitles, no watermark.
+
+## Shot 01 (0-10 s) - intro / hook
+Extreme close-up of heavy raindrops hitting a window pane and sliding down the glass, cool grey-blue dusk light, blurred city lights behind. Slow rack focus from the raindrops to the blurry warm bokeh outside. Very slow push-in. Melancholic, quiet.
+
+## Shot 02 (10-20 s) - verse begins "Rain is tapping on the glass pane"
+Close-up of a ceramic coffee cup on a wooden windowsill, thin steam rising, rain streaming down the window behind it, a hand slowly reaches in and wraps around the cup for warmth. Static camera with a very slight drift. Cool blue outside, warm amber inside.
+
+## Shot 03 (20-30 s) - "Heavy heart... learning how to breathe in and just let go"
+Side profile close-up of the young man sitting by the rainy window, eyes closed, he takes a slow deep breath in and lets it out, shoulders dropping. Rain shadows ripple across his face from the window. Static camera, very slow push-in. Muted desaturated tones, intimate and sad.
+
+## Shot 04 (30-40 s) - "And the shadows start to fade out"
+Wide shot from behind: the young man sits on the floor by the large window, an acoustic guitar resting beside him, the room in dim grey light. Over the 10 seconds the light outside slowly becomes a little brighter and the shadows in the room soften. Curtain moves gently. Slow dolly forward.
+
+## Shot 05 (40-50 s) - chorus "It is okay to feel this way"
+Medium shot, side angle: the young man picks up the acoustic guitar and softly strums it by the window, head tilted down, a faint calm expression. Rain is lighter now, soft diffused light on his face. Slow orbit around him. Emotional, tender.
+
+## Shot 06 (50-60 s) - "Darkness cannot last for another day"
+The young man stands up and opens the window; the rain has almost stopped, cool fresh air moves the curtain and his hair, he closes his eyes and lets the light touch his face. Camera slowly pushes in from behind his shoulder. Light shifts from grey to soft pale gold.
+
+## Shot 07 (60-70 s) - final lift "Everything is going to be alright"
+Wide shot from behind the young man standing on a small balcony after the rain, golden morning sunlight breaking through clouds, puddles on the street below reflecting the sky, water droplets sparkling on the railing. Slow crane up and back to reveal the bright sky. Warm hopeful tones, peaceful ending.
