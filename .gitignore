@@ -14,3 +14,13 @@ studio/projects/*/lyrics.edit.json
 # luong-neon renders from its edited song: keep the mp3 + shifted analysis so a clone can render it
 !studio/projects/luong-neon/audio.edit.json
 !studio/projects/luong-neon/lyrics.edit.json
+# per-song media and analysis output stay local (repo = engine code + models); already-tracked songs stay tracked
+music/*.mp3
+studio/projects/*/song.mp3
+studio/projects/*/audio.json
+studio/projects/*/lyrics.json
+analysis/*/
+# review-only look-dev scaffolds
+studio/projects/cider-lookdev/
+studio/projects/holiday-lookdev/
+studio/projects/banyan-lookdev/

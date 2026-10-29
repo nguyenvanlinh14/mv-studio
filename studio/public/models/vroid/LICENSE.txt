@@ -1,0 +1,4 @@
+VRoid sample models by the VRoid Project (pixiv), from https://opengameart.org/content/vroid-studio-cc0-models
+- shino.glb        = Sendagaya Shino.vrm    — VRoid Hub terms embedded in the file: use by everyone, personal and corporate
+  commercial use allowed, modification and redistribution allowed, credit unnecessary, violent expression allowed.
+Files are VRM 0.x (glTF 2.0 binary), renamed to .glb so three.js GLTFLoader can read them without the VRM extension.
